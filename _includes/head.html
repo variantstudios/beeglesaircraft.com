@@ -1,0 +1,23 @@
+<head>
+    <meta charset="utf-8">
+    <!--[if IE]><meta http-equiv="x-ua-compatible" content="IE=9"><![endif]-->
+    <link rel="canonical" href="{{ include.url | prepend:site.url }}">
+    <link rel="shortlink" href="{{ include.url | prepend:site.url }}">
+    <meta name="robots" content="follow, index">
+    <title>{% if include.page_title %}{{ include.page_title }}{% else %}{{ site.title }}{% endif %}</title>
+    <meta name="description" content="{% if include.page_description %}{{ include.page_description }}{% else %}{{ site.description }}{% endif %}">
+    <meta property="og:site_name" content="{{ site.title }}">
+    <meta property="og:title" content="{% if include.page_title %}{{ include.page_title }}{% else %}{{ site.title }}{% endif %}">
+    <meta property="og:description" content="{% if include.page_description %}{{ include.page_description }}{% else %}{{ site.description }}{% endif %}">
+    <meta property="og:url" content="{{ include.url | prepend:site.url }}">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta property="og:type" content="website" />
+    <meta property="og:image" content="{{ site.url }}{{ include.share_image_path }}">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Apple Touch, Fav Icon, and Windows Tile -->
+    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png">
+    <script defer src="https://use.fontawesome.com/releases/v5.3.1/js/all.js" integrity="sha384-kW+oWsYx3YpxvjtZjFXqazFpA7UP/MbiY4jvs+RWZo2+N94PFZ36T6TFkc9O3qoB" crossorigin="anonymous"></script>
+</head>

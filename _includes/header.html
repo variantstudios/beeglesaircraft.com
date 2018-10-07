@@ -1,0 +1,17 @@
+<nav class="navbar is-light is-transparent">
+    <div class="container">
+        <div class="navbar-brand">
+            <a class="navbar-item" href="/">
+                <img src="/assets/images/logo.svg" alt="Logo">
+            </a>
+            <div class="navbar-burger burger" data-target="navMenuColorlight-example">
+                <span></span>
+                <span></span>
+                <span></span>
+            </div>
+        </div>
+        <div class="navbar-menu">
+            {% include nav.html current_url=include.current_url %}
+        </div>
+    </div>
+</nav>

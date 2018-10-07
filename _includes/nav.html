@@ -1,0 +1,4 @@
+{% assign navurl = include.current_url | remove: 'index.html' %}
+<ul class="navbar-end">{% for item in site.data.main-menu %}
+    <li><a href="{{ item.url }}" {% if item.url==navurl %}class="is-active navbar-item" {% else %}class="navbar-item" {% endif %}>{{ item.text }}</a>{% if item.subitems %}{% include nav.html nav=item.subitems %}{% endif %}</li>{% endfor %}
+</ul>

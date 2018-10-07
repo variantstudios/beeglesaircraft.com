@@ -1,0 +1,109 @@
+--- 
+layout: default 
+class: contact
+---
+
+<main class="section">
+    <div class="container">
+        <section class="content">{{content}}</section>
+
+        <div class="contact-form">
+
+
+            <div  id="contact-message" class="notification">
+ {{page.webform.thank_you_message}}
+</div>
+
+            <form id="contact-form" method="post" action="/contact-us/?sent=true">
+                <input type="hidden" name="_to" value="{{page.webform.to}}">
+                <input type="hidden" name="_subject" value="{{page.webform.subject}}">
+                <input type="text" name="_gotcha" style="display: none;">
+
+
+
+
+
+<div class="field">
+<label class="label">Name</label>
+<div class="control has-icons-left has-icons-right">
+<input class="input" type="text" placeholder="John Doe" required>
+<span class="icon is-left">
+<i class="fas fa-user"></i>
+</span>
+<span class="icon is-right">
+<i class="fas fa-check"></i>
+</span>
+</div>
+</div>
+
+
+
+
+<div class="field">
+<label class="label">Email</label>
+<div class="control has-icons-left has-icons-right">
+<input class="input" type="email" placeholder="yourname@email.com" required>
+<span class="icon is-left">
+<i class="fas fa-envelope"></i>
+</span>
+<span class="icon is-right">
+<i class="fas fa-check"></i>
+</span>
+</div>
+</div>
+
+<div class="field">
+<label class="label">Messsage</label>
+<div class="control has-icons-right">
+<textarea class="textarea" placeholder="Explain how we can help you"></textarea>
+<span class="icon is-right">
+<i class="fas fa-check"></i>
+</span>
+</div>
+</div>
+
+
+
+{%- comment -%} 
+                <div class="rendered-form">
+                    <div class="form-super-group">
+                        <div class="left form-group field-first-name">
+                            <label for="first-name" class="fb-text-label">First Name *</label>
+                            <input type="text" class="form-control" name="first-name" id="first-name" required="">
+                        </div>
+                        <div class="right form-group field-last-name">
+                            <label for="last-name" class="fb-text-label">Last Name *</label>
+                            <input type="text" class="form-control" name="last-name" id="last-name" required="">
+                        </div>
+                    </div>
+                    <div class="form-super-group">
+                        <div class="left form-group field-email">
+                            <label for="email" class="fb-text-label">Email *</label>
+                            <input type="text" class="form-control" name="email" id="email" required="">
+                        </div>
+                        <div class="right form-group field-phone">
+                            <label for="phone" class="fb-text-label">Phone</label>
+                            <input type="text" class="form-control" name="phone" id="phone">
+                        </div>
+                    </div>
+                    <div class="form-group field-message">
+                        <label for="message" class="fb-textarea-label">Message *</label>
+                        <textarea type="textarea" class="form-control" name="message" id="message" rows="5" required=""></textarea>
+                    </div>
+                </div>
+                <p class="required">* Required Fields</p> {%- endcomment -%}
+                
+                 <div class="control">
+              <div class="g-recaptcha left" id="RecaptchaField1"></div>
+              </div>
+                 
+
+              <div class="control">
+              <button class="button is-primary">Submit</button>
+              </div>
+
+            </form>
+
+        </div>
+    </div>
+</main>

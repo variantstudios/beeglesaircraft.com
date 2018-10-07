@@ -1,0 +1,38 @@
+--- 
+layout: page 
+---
+
+<section class="blog-wrapper wrap">
+    <div class="blog-item clearfix">
+        <p>
+            {% if page.category contains 'blog' %}
+            <a href="/blog/">
+                < Back to the Blog</a>
+                    {% else if page.category contains 'news'%}
+                    <a href="/news/">
+                        < Back to News</a>
+                            {% else %} {% endif %}
+        </p>
+        <div class="blog-content">
+            <h3><a href="{{ post.url }}">{{ page.title }}</a></h3>
+            <p>posted {{ page.date | date: "%a, %b %d, %Y" }}</p>
+            <div>{{ content }}</div>
+        </div>
+    </div>
+    <nav class="pagination" role="navigation">
+        <ul class="pager">
+
+            {% if page.previous.url %}
+            <li class="previous left">
+                <a class="prev" href="{{page.previous.url}}">&laquo; {{ page.previous.title | truncate: 50 }}</a> {% endif %} {% if page.next.url %}
+            </li>{% endif %} {% if page.next.url %}
+            <li class="next right">
+                <a class="next" href="{{page.next.url}}">{{ page.next.title | truncate: 50 }} &raquo;</a>
+            </li>
+
+        </ul>
+        {% endif %}
+        </ul>
+    </nav>
+
+</section>

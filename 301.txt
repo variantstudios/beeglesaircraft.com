@@ -1,0 +1,14 @@
+# /old_file.html /new_file.html
+
+/repair.php /repair/
+/services.php /services/
+/about.php /about/
+/facility.php /facility/
+/retrieval.php /retrieval/
+/337s.htm /337s/
+/accommodations.htm /accommodations/
+/contact.php /contact/
+/quote.php /quote/
+/gallery.php /gallery/
+/testimonials.php /testimonials/
+/map.php /contact/

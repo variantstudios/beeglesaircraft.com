@@ -1,0 +1,33 @@
+<!-- Use for Critical CSS-->
+<!-- <script>
+    var cb = function() {
+        var l = document.createElement('link');
+        l.rel = 'stylesheet';
+        l.href = '/assets/css/style.css';
+        var h = document.getElementsByTagName('head')[0];
+        h.parentNode.insertBefore(l, h);
+    };
+    var raf = requestAnimationFrame || mozRequestAnimationFrame ||
+        webkitRequestAnimationFrame || msRequestAnimationFrame;
+    if (raf) raf(cb);
+    else window.addEventListener('load', cb);
+</script> -->
+
+<!-- Remove if you use Critical CSS-->
+<link rel="stylesheet" href="/assets/css/style.css" media="screen">
+
+<script src="/assets/js/prod/modernizr.js"></script>
+<script src="/assets/js/libs/zepto/zepto.min.js"></script>
+<script src="/assets/js/prod/script.js"></script>
+
+
+{% if include.class == 'contact' %}
+<script src="/assets/js/prod/contact.js"></script>
+<script src='https://www.google.com/recaptcha/api.js?onload=CaptchaCallback&render=explicit' async defer></script>
+{% endif %} {% if include.google_analytics_tracking_id %}
+<script src="https://cdn.jsdelivr.net/npm/ga-lite@1/dist/ga-lite.min.js" async></script>
+<script>
+    var galite = galite || {};
+    galite.UA = '{{ site.google_analytics_tracking_id }}';
+</script>
+{% endif %}

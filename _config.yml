@@ -1,0 +1,119 @@
+title: Beegles Aircraft Services, Inc.
+email: parts@beeglesaircraft.com
+description: >-
+  Beegles Aircraft Service, Inc. is a FAA Certified Repair Station with a Class III Airframe Rating and additionally have Limited – Powerplant, Propeller, and Landing Gear Ratings.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+version: "3.8.4" # the version of jekyll used to build the site
+
+# Gems for plugins
+plugins:
+  - jekyll-sitemap # Simple jekyll plugin that creates a sitemap.xml file and you can exclude files by adding 'sitemap:false' to the frontmatter of any file(s).
+  - jekyll-include-cache # Cache jekyll includes to improve build times
+  
+# CloudCannon defaults
+uploads_dir: "assets/images"
+
+# Jekyll Permalinks
+permalink: pretty
+
+# Compress HTML
+compress_html:
+  clippings: all
+  comments: ["<!-- ", " -->"]
+  endings: []
+  ignore:
+    envs: [local]
+  blanklines: false
+  profile: true
+  startings: [html, head, body]
+
+# Jekyll Collections
+collections:
+  custom_pages:
+    output: true
+    permalink: '/:title/'
+
+# Jekyll Collections   
+defaults:
+  -
+    scope:
+      type: custom_pages
+    values:
+      layout: page
+      class: page
+
+# Cloudcannon Options
+_options:
+  _text:
+    bold: true
+    italic: true
+    link: true
+  _block:
+    removeformat: true
+    format: p h1 h2 h3 h4 h5 h6 pre address div
+    bold: true
+    numberedlist: true
+    bulletedlist: true
+    outdent: true
+    indent: true
+    table: true
+    link: true
+    image: true
+    styles: /assets/css/wysiwyg.css
+    embed: true
+    left: align-to-left
+    center: align-to-center
+    right: align-to-right
+  content:
+    removeformat: true
+    format: p h1 h2 h3 h4 h5 h6 pre address div
+    bold: true
+    numberedlist: true
+    bulletedlist: true
+    outdent: true
+    indent: true
+    table: true
+    link: true
+    image: true
+    styles: /assets/css/wysiwyg.css
+    embed: true
+    left: align-to-left
+    center: align-to-center
+    right: align-to-right
+  share_image_path:
+    width: 1200
+    height: 1200
+    resize_style: "contain"
+    mime_type: "image/jpeg"
+    expandable: false
+    uploads_dir: "assets/images/share"
+
+# CloudCannon Comments
+_comments:
+  share_image_path: "The social share image needs to be at least 1200x1200px and if not that exact same size CloudCannon will scale and crop it to 1200x1200."
+  
+# Google Analytics 
+google_analytics_tracking_id:
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+exclude: [
+  ".sass-cache",
+  ".jekyll-metadata",
+  "siteicon.png",
+  "npm-debug.log",
+  "Gemfile",
+  "Gemfile.lock",
+  "README.md",
+  "assets/**/*.md",
+  "gulpfile.js",
+  "node_modules",
+  "npm-shrinkwrap.json",
+  "package-lock.json",
+  "package.json",
+  "proofScripts.js",
+  "*.scss",
+  "src"
+  ]
