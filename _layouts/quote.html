@@ -1,0 +1,76 @@
+--- 
+layout: default 
+class: contact 
+---
+
+<main class="section">
+    <div class="container">
+        <section class="content">{{content}}</section>
+
+        <div class="contact-form">
+
+
+            <div id="contact-message" class="notification">
+                {{page.webform.thank_you_message}}
+            </div>
+
+            <form id="contact-form" method="post" action="/contact-us/?sent=true">
+                <input type="hidden" name="_to" value="{{page.webform.to}}">
+                <input type="hidden" name="_subject" value="{{page.webform.subject}}">
+                <input type="text" name="_gotcha" style="display: none;">
+
+                <div class="field">
+                    <label class="label">Name</label>
+                    <div class="control has-icons-left has-icons-right">
+                        <input class="input" type="text" placeholder="John Doe" required>
+                        <span class="icon is-left">
+<i class="fas fa-user"></i>
+</span>
+                        <span class="icon is-right">
+<i class="fas fa-check"></i>
+</span>
+                    </div>
+                </div>
+
+
+
+
+                <div class="field">
+                    <label class="label">Email</label>
+                    <div class="control has-icons-left has-icons-right">
+                        <input class="input" type="email" placeholder="yourname@email.com" required>
+                        <span class="icon is-left">
+<i class="fas fa-envelope"></i>
+</span>
+                        <span class="icon is-right">
+<i class="fas fa-check"></i>
+</span>
+                    </div>
+                </div>
+
+                <div class="field">
+                    <label class="label">Messsage</label>
+                    <div class="control has-icons-right">
+                        <textarea class="textarea" placeholder="Explain how we can help you"></textarea>
+                        <span class="icon is-right">
+<i class="fas fa-check"></i>
+</span>
+                    </div>
+                </div>
+
+
+
+                <div class="control">
+                    <div class="g-recaptcha left" id="RecaptchaField1"></div>
+                </div>
+
+
+                <div class="control">
+                    <button class="button is-primary">Submit</button>
+                </div>
+
+            </form>
+
+        </div>
+    </div>
+</main>

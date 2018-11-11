@@ -87,6 +87,18 @@ main.section {
     justify-content: center;
 }
 
+.hero {
+    background: url('/assets/images/home.png');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.hero .subtitle,
+.hero .title {
+    text-shadow: 1px 1px 1px #000;
+}
+
 @import 'partials/global/global';
 @import 'partials/styleguide/styleguide';
 @import 'partials/design/design';
