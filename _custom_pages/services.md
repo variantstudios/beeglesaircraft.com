@@ -10,7 +10,7 @@ layout: page
 
 ### Fuselage Repair
 
-We can provide you quality aircraft structural repairs on all metal construction aircraft providing the highest quality and value of your aircraft.
+We can provide you quality aircraft structural repairs on all metal construction aircraft providing the highest quality and value of your aircraft. 
 
 ### Wing Repair
 
@@ -39,5 +39,3 @@ Should your aircraft not be ferriable, we have a team utilizing trucks and custo
 ### Investigations
 
 We have a designated shop specially designed to perform inspections on airframe and engine tear downs.
-
-&nbsp;
