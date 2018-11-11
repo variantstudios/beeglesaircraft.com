@@ -3,15 +3,29 @@
   subitems:
     - text: Repair
       url: /repair/
+    - text: "337's"
+      url: "/337s/"
     - text: Retrieval
       url: /retrieval/
+    - text: "Online Part Store"
+      url: 'https://www.baspartsales.com/'
 - text: About
   url: /about/
-- text: Our Facility
-  url: /facility/
-- text: "337's"
-  url: /337s/
-- text: Accommodations
-  url: /accommodations/
+  subitems:
+    - text: Photo Gallery
+      url: /gallery/
+    - text: Our Facility
+      url: /facility/
+    - text: Customer Testimonials
+      url: /testimonials/
+    - text: Accommodations
+      url: /accommodations/
+    - text: 'Our Article in Cessna Owner Magazine'
+      url: '/'
 - text: Contact
   url: /contact/
+  subitems:
+    - text: Request A Quote
+      url: /quote/
+    - text: Map and Directions
+      url: /map/ 
