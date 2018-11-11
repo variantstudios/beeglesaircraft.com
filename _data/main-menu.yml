@@ -1,13 +1,14 @@
-- text: Repair
-  url: /repair/
 - text: Services
   url: /services/
+  subitems:
+    - text: Repair
+      url: /repair/
+    - text: Retrieval
+      url: /retrieval/
 - text: About
   url: /about/
 - text: Our Facility
   url: /facility/
-- text: Retrieval
-  url: /retrieval/
 - text: "337's"
   url: /337s/
 - text: Accommodations

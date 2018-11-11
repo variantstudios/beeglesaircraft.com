@@ -1,4 +1,17 @@
-{% assign navurl = include.current_url | remove: 'index.html' %}
-<ul class="navbar-end">{% for item in site.data.main-menu %}
-    <li><a href="{{ item.url }}" {% if item.url==navurl %}class="is-active navbar-item" {% else %}class="navbar-item" {% endif %}>{{ item.text }}</a>{% if item.subitems %}{% include nav.html nav=item.subitems %}{% endif %}</li>{% endfor %}
+{% assign navurl = page.url  | remove: 'index.html' %}
+<ul {% if item.subitems != null %}class="navbar-dropdown is-boxed"{% else %}class="navbar-end"{% endif %}>{% for item in include.nav %}
+  <li {% if item.subitems != null %} class="navbar-item has-dropdown is-hoverable"{% else %}class="navbar-item"{% endif %} >
+  
+  <a href="{{ item.url }}" 
+
+  {% if item.subitems != null and item.url == navurl %}class="is-active navbar-link"
+  {% elsif item.subitems != null and item.url != navurl %}class="navbar-link"
+
+  {% elsif item.subitems == null and item.url == navurl %}class="is-active navbar-item"
+  {% elsif item.subitems == null and item.url != navurl %}class="navbar-item"
+  {% endif %}
+  
+  >{{ item.text }}</a>
+  
+  {% if item.subitems %}{% include nav.html nav=item.subitems subnav=true %}{% endif %}</li>{% endfor %}
 </ul>

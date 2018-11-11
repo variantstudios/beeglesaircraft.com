@@ -1,4 +1,4 @@
-<nav class="navbar is-light is-transparent">
+<nav class="navbar is-light is-transparent" role="navigation" aria-label="dropdown navigation">
     <div class="container">
         <div class="navbar-brand">
             <a class="navbar-item" href="/">
@@ -11,7 +11,7 @@
             </div>
         </div>
         <div class="navbar-menu">
-            {% include nav.html current_url=include.current_url %}
+            {% include nav.html current_url=include.current_url nav=site.data.main-menu %}
         </div>
     </div>
 </nav>
