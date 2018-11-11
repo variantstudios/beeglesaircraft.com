@@ -1,21 +1,43 @@
 ---
-title: Services 
+title: Aircraft Services
 search_engine_optimization:
-  page_title: Services title goes here.
-  page_description: Services this sweet about page.
+  page_title: Aircraft Services
+  page_description: Beegles Aircraft Services
 layout: page
 ---
 
-<h2>Exemplum Document Filler Text</h2>
+## Aircraft Services
 
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras scelerisque pulvinar eros sit amet sodales. Nulla vel enim non ligula faucibus accumsan a et nunc. Mauris scelerisque, metus nec blandit consectetur, ante felis vulputate eros, sit amet cursus arcu felis non justo. Interdum et malesuada fames ac ante ipsum primis in faucibus. Morbi id hendrerit lorem. Donec elementum tellus vitae lacus porta gravida. Mauris fermentum fringilla magna, quis sagittis massa rutrum a. Nulla consectetur mauris quis mi elementum, et scelerisque enim dapibus. Nullam ac mi mi. Mauris volutpat dictum nulla, a suscipit diam fringilla nec. Sed augue ante, laoreet sed vulputate non, sagittis nec nulla. 
-Maecenas viverra arcu diam</p>
+### Fuselage Repair
 
-<ul>
-<li>Morbi porta mi in pellentesque facilisis.</li>
-<li>Quisque imperdiet ex quis aliquet lacinia.</li>
-<li>Donec eget dui semper, aliquam ligula sed, egestas nulla.</li>
-<li>Mauris id massa vitae neque viverra consectetur at ut orci.</li>
-</ul>
- 
-<p>Interdum et malesuada fames ac ante ipsum primis in faucibus. Cras commodo elementum tincidunt. Maecenas convallis erat congue odio rutrum, sit amet euismod erat tempor. Etiam eu rutrum felis.<p>
+We can provide you quality aircraft structural repairs on all metal construction aircraft providing the highest quality and value of your aircraft.
+
+### Wing Repair
+
+Our comprehensive wing shop is fully equipped to eliminate down time and get you back up in the air as soon as possible.
+
+### Control Surface Repair
+
+An arrangement of expertise and factory repair fixtures you can guarantee that we will maintain all factory tolerances.
+
+### Landing Gear Repair
+
+With our Landing Gear Limited Ratings you can you can feel confident that the repair was performed properly here in our shop.
+
+### Paint Shop
+
+We provide experienced, personalized service to ensure that your aircraft paintwork is restored back to its original color.
+
+### Pilot Service – Pick-up and Delivery
+
+Full aircraft ferry service for light aircraft ranging from single engine piston types to twin engine turbo props.&nbsp; Our pilots have over 7500 hours total time, 2500 multi engine and 1500 hours turbine.
+
+### Aircraft Transportation
+
+Should your aircraft not be ferriable, we have a team utilizing trucks and custom designed trailers to haul your aircraft to our facility problem free.
+
+### Investigations
+
+We have a designated shop specially designed to perform inspections on airframe and engine tear downs.
+
+&nbsp;
