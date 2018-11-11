@@ -7,16 +7,21 @@ and repair equipment available."
 layout: page
 ---
 
-<h2>Exemplum Document Filler Text</h2>
+## Out Facility
 
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras scelerisque pulvinar eros sit amet sodales. Nulla vel enim non ligula faucibus accumsan a et nunc. Mauris scelerisque, metus nec blandit consectetur, ante felis vulputate eros, sit amet cursus arcu felis non justo. Interdum et malesuada fames ac ante ipsum primis in faucibus. Morbi id hendrerit lorem. Donec elementum tellus vitae lacus porta gravida. Mauris fermentum fringilla magna, quis sagittis massa rutrum a. Nulla consectetur mauris quis mi elementum, et scelerisque enim dapibus. Nullam ac mi mi. Mauris volutpat dictum nulla, a suscipit diam fringilla nec. Sed augue ante, laoreet sed vulputate non, sagittis nec nulla. 
-Maecenas viverra arcu diam</p>
+Beegles Aircrafts new facility offers the best in aviation service to our customers. Our 40,000 square foot state-of-the-art facilities feature the most current diagnostic and repair equipment available. Our highly skilled technicians will be fully equipped to get you and your airplane flying as quickly as possible. Our facility is loaded with a full comprehensive tool room and a all inclusive resource room carrying every part and maintenance manual for your aircraft. We are also equipped with factory, Beech, Piper, and Cessna jigs.
 
-<ul>
-<li>Morbi porta mi in pellentesque facilisis.</li>
-<li>Quisque imperdiet ex quis aliquet lacinia.</li>
-<li>Donec eget dui semper, aliquam ligula sed, egestas nulla.</li>
-<li>Mauris id massa vitae neque viverra consectetur at ut orci.</li>
-</ul>
- 
-<p>Interdum et malesuada fames ac ante ipsum primis in faucibus. Cras commodo elementum tincidunt. Maecenas convallis erat congue odio rutrum, sit amet euismod erat tempor. Etiam eu rutrum felis.<p>
+We have a full line of control surfaces ready to go, for exchange, to eliminate your downtime. We also carry an wide variety of inventory with over $400,000 of new parts listed on Partsbase.com should you ever need a part.
+
+Beegles new facility is located at the Weld County Airport in Greeley, Colorado with easy access to fly in and out. We are located 50 miles north of DIA but out of the Denver class B airspace. Our shop is the second building south of the main terminal.&nbsp;
+
+#### Our Facility Includes:
+
+* Engine shop
+* Control Surface shop
+* Wing Shop
+* Clean Room
+* Resource Room
+* Tool Room
+* Parts Room
+* Shipping and Receiving
