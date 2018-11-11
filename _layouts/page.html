@@ -7,11 +7,14 @@ layout: default
           <h1 class="title has-text-white is-size-1">
               {{page.title}}
           </h1>
+          {% if page.sub_title %}
           <h2 class="subtitle has-text-white is-size-4">
               {{page.sub_title}}
           </h2>
+          {% endif %}
       </div>
   </div>
+  {% if page.hero_image %}
   <picture>
     <!--[if IE 9]><video style="display: none;"><![endif]-->
     <source srcset="{{site.cloudinaryurl}}image/fetch/w_400,c_fill,c_fill,q_65/{{site.url}}{{ page.hero_image}}" media="(max-width: 400px)">
@@ -25,6 +28,7 @@ layout: default
   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" preserveAspectRatio="none">
     <polygon fill="white" points="0,100 100,0 100,100"/>
   </svg>
+  {% endif %}
 </section>
 
 <main class="section">
