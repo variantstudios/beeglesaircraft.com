@@ -1,16 +1,16 @@
 nav.navbar {
-  border-top: solid 5px #a4191b;
-  height: min-height: 2.25rem;
-  .navbar-item img {
-    max-height: 3.75rem;
-  }
+    border-top: solid 5px #a4191b;
+    min-height: 2.25rem;
+    .navbar-item img {
+        max-height: 3.75rem;
+    }
 }
 
 @media screen and (min-width: 1088px) {
-  nav.navbar {
-    min-height: 2.25rem;
-    .navbar-item img {
-      max-height: 5.75rem;
+    nav.navbar {
+        min-height: 2.25rem;
+        .navbar-item img {
+            max-height: 5.75rem;
+        }
     }
-  }
 }

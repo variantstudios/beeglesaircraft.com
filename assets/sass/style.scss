@@ -87,18 +87,11 @@ main.section {
     justify-content: center;
 }
 
-.hero {
-    background: url('/assets/images/home.png');
-    background-position: center;
-    background-size: cover;
-    background-repeat: no-repeat;
-}
-
-.hero .subtitle,
-.hero .title {
-    text-shadow: 1px 1px 1px #000;
-}
-
+// $mobile: '@media screen and (min-width: 0 and max-width: 768px)';
+// $tablet: '@media screen and (min-width: 769px and max-width: 1023px)';
+// $desktop: '@media screen and (min-width: 1024px and max-width: 1215px)';
+// $widescreen: '@media screen and (min-width: 1216px and max-width: 1407px)';
+// $fullhd: '@media screen and (min-width: 1338px)';
 @import 'partials/global/global';
 @import 'partials/styleguide/styleguide';
 @import 'partials/design/design';
