@@ -1,11 +1,7 @@
 ---
 title: About Beegles Aircraft Service
 sub_title: Add an option sub title here
-<<<<<<< HEAD
 hero_image: '/assets/images/hero/final3.jpg'
-=======
-hero_image: /assets/images/hero/final3.jpg
->>>>>>> c967575729c10b781203816a1f4b578e7a1bf264
 search_engine_optimization:
   page_title: About title goes here.
   page_description: About this sweet about page.
