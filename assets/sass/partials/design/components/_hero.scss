@@ -1,5 +1,13 @@
 .hero.site {
-    height: 300px;
+    &.hero-image {
+        height: 300px;
+        @media screen and (min-width: 1088px) {
+            height: 600px;
+        }
+    }
+    &.hero-noimage {
+        background-image: linear-gradient(141deg, #ba3634 0, #b62727 71%, #c73939 100%);
+    }
     width: 100%;
     position: relative;
     overflow: hidden;
@@ -19,9 +27,6 @@
         width: 100%;
         height: 10vw;
         z-index: 1;
-    }
-    @media screen and (min-width: 1088px) {
-        height: 600px;
     }
 }
 

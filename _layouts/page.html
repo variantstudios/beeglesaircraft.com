@@ -1,7 +1,7 @@
 --- 
 layout: default 
 ---
-<section class="hero is-medium has-text-white is-bold site">
+<section class="hero is-medium has-text-white is-bold site {% if page.hero_image %}hero-image{% else %}hero-noimage{% endif %}">
   <div class="hero-body">
       <div class="container">
           <h1 class="title has-text-white is-size-1">
@@ -26,10 +26,10 @@ layout: default
     <img src="{{site.cloudinaryurl}}image/fetch/w_1200,c_fill,c_fill,q_65/{{site.url}}{{ page.hero_image}}" alt="{{page.title}}"> {%- endcomment -%}
     <img src="{{ page.hero_image}}" alt="{{page.title}}">
   </picture>
+  {% endif %}
   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" preserveAspectRatio="none">
     <polygon fill="white" points="0,100 100,0 100,100"/>
   </svg>
-  {% endif %}
 </section>
 
 <main class="section">
