@@ -1,7 +1,37 @@
 --- 
 layout: default 
-class: contact
+class: contact 
 ---
+<section class="hero is-medium has-text-white is-bold site {% if page.hero_image %}hero-image{% else %}hero-noimage{% endif %}">
+  <div class="hero-body">
+      <div class="container">
+          <h1 class="title has-text-white is-size-1">
+              {{page.title}}
+          </h1>
+          {% if page.sub_title %}
+          <h2 class="subtitle has-text-white is-size-4">
+              {{page.sub_title}}
+          </h2>
+          {% endif %}
+      </div>
+  </div>
+  {% if page.hero_image %}
+  <picture>
+    {%- comment -%} <!--[if IE 9]><video style="display: none;"><![endif]-->
+    <source srcset="{{site.cloudinaryurl}}image/fetch/w_400,c_fill,c_fill,q_65/{{site.url}}{{ page.hero_image}}" media="(max-width: 400px)">
+    <source srcset="{{site.cloudinaryurl}}image/fetch/w_600,c_fill,c_fill,q_65/{{site.url}}{{ page.hero_image}}" media="(max-width: 600px)">
+    <source srcset="{{site.cloudinaryurl}}image/fetch/w_800,c_fill,c_fill,q_65/{{site.url}}{{ page.hero_image}}" media="(max-width: 800px)">
+    <source srcset="{{site.cloudinaryurl}}image/fetch/w_1000,c_fill,c_fill,q_65/{{site.url}}{{ page.hero_image}}" media="(max-width: 1000px)">
+    <source srcset="{{site.cloudinaryurl}}image/fetch/w_1200,c_fill,c_fill,q_65/{{site.url}}{{ page.hero_image}}" media="(min-width: 1200px)">
+    <!--[if IE 9]></video><![endif]-->
+    <img src="{{site.cloudinaryurl}}image/fetch/w_1200,c_fill,c_fill,q_65/{{site.url}}{{ page.hero_image}}" alt="{{page.title}}"> {%- endcomment -%}
+    <img src="{{ page.hero_image}}" alt="{{page.title}}">
+  </picture>
+  {% endif %}
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" preserveAspectRatio="none">
+    <polygon fill="white" points="0,100 100,0 100,100"/>
+  </svg>
+</section>
 
 <main class="section">
     <div class="container">
@@ -10,9 +40,9 @@ class: contact
         <div class="contact-form">
 
 
-            <div  id="contact-message" class="notification">
- {{page.webform.thank_you_message}}
-</div>
+            <div id="contact-message" class="notification">
+                {{page.webform.thank_you_message}}
+            </div>
 
             <form id="contact-form" method="post" action="/contact-us/?sent=true">
                 <input type="hidden" name="_to" value="{{page.webform.to}}">
@@ -23,84 +53,40 @@ class: contact
 
 
 
-<div class="field">
-<label class="label">Name</label>
-<div class="control has-icons-left has-icons-right">
-<input class="input" type="text" placeholder="John Doe" required>
-<span class="icon is-left">
-<i class="fas fa-user"></i>
-</span>
-<span class="icon is-right">
-<i class="fas fa-check"></i>
-</span>
-</div>
-</div>
-
-
-
-
-<div class="field">
-<label class="label">Email</label>
-<div class="control has-icons-left has-icons-right">
-<input class="input" type="email" placeholder="yourname@email.com" required>
-<span class="icon is-left">
-<i class="fas fa-envelope"></i>
-</span>
-<span class="icon is-right">
-<i class="fas fa-check"></i>
-</span>
-</div>
-</div>
-
-<div class="field">
-<label class="label">Messsage</label>
-<div class="control has-icons-right">
-<textarea class="textarea" placeholder="Explain how we can help you"></textarea>
-<span class="icon is-right">
-<i class="fas fa-check"></i>
-</span>
-</div>
-</div>
-
-
-
-{%- comment -%} 
-                <div class="rendered-form">
-                    <div class="form-super-group">
-                        <div class="left form-group field-first-name">
-                            <label for="first-name" class="fb-text-label">First Name *</label>
-                            <input type="text" class="form-control" name="first-name" id="first-name" required="">
-                        </div>
-                        <div class="right form-group field-last-name">
-                            <label for="last-name" class="fb-text-label">Last Name *</label>
-                            <input type="text" class="form-control" name="last-name" id="last-name" required="">
-                        </div>
-                    </div>
-                    <div class="form-super-group">
-                        <div class="left form-group field-email">
-                            <label for="email" class="fb-text-label">Email *</label>
-                            <input type="text" class="form-control" name="email" id="email" required="">
-                        </div>
-                        <div class="right form-group field-phone">
-                            <label for="phone" class="fb-text-label">Phone</label>
-                            <input type="text" class="form-control" name="phone" id="phone">
-                        </div>
-                    </div>
-                    <div class="form-group field-message">
-                        <label for="message" class="fb-textarea-label">Message *</label>
-                        <textarea type="textarea" class="form-control" name="message" id="message" rows="5" required=""></textarea>
+                <div class="field">
+                    <label class="label">Name</label>
+                    <div class="control has-icons-left has-icons-right">
+                        <input class="input" type="text" placeholder="John Doe" required>
+                        <span class="icon is-left"><i class="fas fa-user"></i></span>
+                        <span class="icon is-right"><i class="fas fa-check"></i></span>
                     </div>
                 </div>
-                <p class="required">* Required Fields</p> {%- endcomment -%}
-                
-                 <div class="control">
-              <div class="g-recaptcha left" id="RecaptchaField1"></div>
-              </div>
-                 
 
-              <div class="control">
-              <button class="button is-primary">Submit</button>
-              </div>
+                <div class="field">
+                    <label class="label">Email</label>
+                    <div class="control has-icons-left has-icons-right">
+                        <input class="input" type="email" placeholder="yourname@email.com" required>
+                        <span class="icon is-left"><i class="fas fa-envelope"></i></span>
+                        <span class="icon is-right"><i class="fas fa-check"></i></span>
+                    </div>
+                </div>
+
+                <div class="field">
+                    <label class="label">Messsage</label>
+                    <div class="control has-icons-right">
+                        <textarea class="textarea" placeholder="Explain how we can help you"></textarea>
+                        <span class="icon is-right"><i class="fas fa-check"></i></span>
+                    </div>
+                </div>
+
+                <div class="control">
+                    <div class="g-recaptcha left" id="RecaptchaField1"></div>
+                </div>
+
+
+                <div class="control">
+                    <button class="button is-primary">Submit</button>
+                </div>
 
             </form>
 
