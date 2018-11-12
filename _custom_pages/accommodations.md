@@ -7,10 +7,7 @@ search_engine_optimization:
     Greeley, CO.
 layout: page
 ---
-
-## Local Accommodations
-
-### Hotels:
+## Hotels:
 
 Here are some of the closest accommodations near Beegles Aircraft Service in Greeley, CO.&nbsp; They include Hotels, Motels and even several Bed and Breakfasts.&nbsp; The lists of amenities are listed next to each.&nbsp; Hotels are listed in order by closest from Greeley - Weld County Airport.
 
@@ -34,9 +31,9 @@ Here are some of the closest accommodations near Beegles Aircraft Service in Gre
 
 **HAMPTON INN & SUITES GREELEY**&nbsp;- Located 6 miles south of the airport in Evans, south of Greeley.&nbsp; Free deluxe continental breakfast, free evening soup bar, kids under 18 stay free, voice mail in all rooms, all rooms computer accessible, free access to local health club.&nbsp; (970) 356-2180 or 1-800-254-5105.&nbsp; [hamptoninn3.hilton.com](https://hamptoninn3.hilton.com/en/hotels/colorado/hampton-inn-and-suites-greeley-GXYCOHX/index.html){: target="_blank"}
 
-### Transportation:
+## Transportation:
 
-#### *Don’t rent a car.*
+### *Don’t rent a car.*
 
 The Greeley Shuttle offers transportation from DIA to our front door. The cost is about $35.00 per person. The ride is about an hour. Please visit their website to view schedule times and/or reserve a seat. You can also reach them at (970) 353-2502.&nbsp;[greeleyshuttle.com](http://www.greeleyshuttle.com/){: target="_blank"}
 
