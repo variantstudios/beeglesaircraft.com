@@ -1,7 +1,4 @@
----
-layout: default
-class: contact
----
+--- layout: default class: contact ---
 <section class="hero is-medium has-text-white is-bold site {% if page.hero_image %}hero-image{% else %}hero-noimage{% endif %}">
     <div class="hero-body">
         <div class="container">
@@ -40,13 +37,12 @@ class: contact
             {{content}}
         </section>
         <section class="content">
-        {{ page.image_gallery[0].gallery_image_path }}
             <div class="carousel-revolver">
-                {% if page.image_gallery[0].gallery_image_path %}
-                    {% for image in page.image_gallery %}
-                        <div><a href="{{image.gallery_image_path}}" class="image-link"><img src="{{site.cloudinaryurl}}image/fetch/h_400,c_fill,c_fill,q_65/{{site.url}}{{image.gallery_image_path}}" alt="{{image.image_title}}"></a></div>
-                    {% endfor %}
-                {% endif %}
+                {% if page.image_gallery[0].gallery_image_path %} {% for image in page.image_gallery %}
+                <div>
+                    <a href="{{image.gallery_image_path}}" class="image-link"><img src="{{site.cloudinaryurl}}image/fetch/h_400,c_fill,c_fill,q_65/{{site.url}}{{image.gallery_image_path}}" alt="{{image.image_title}}"></a>
+                </div>
+                {% endfor %} {% endif %}
             </div>
         </section>
     </div>

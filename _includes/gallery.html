@@ -1,0 +1,7 @@
+<div class="carousel-revolver-gallery">
+    {% if page.page_image_gallery[0].gallery_image_path %} {% for image in page.page_image_gallery %}
+    <div>
+        <a href="{{image.gallery_image_path}}" class="image-link"><img src="{{image.gallery_image_path}}" alt="{{image.image_title}}"></a>
+    </div>
+    {% endfor %} {% endif %}
+</div>
