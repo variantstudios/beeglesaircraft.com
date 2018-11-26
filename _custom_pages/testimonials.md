@@ -77,13 +77,6 @@ _comments:
   testimonial_body_html: This is testinomial.
 ---
 
-## Exemplum Document Filler Text
+## &nbsp;
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras scelerisque pulvinar eros sit amet sodales. Nulla vel enim non ligula faucibus accumsan a et nunc. Mauris scelerisque, metus nec blandit consectetur, ante felis vulputate eros, sit amet cursus arcu felis non justo. Interdum et malesuada fames ac ante ipsum primis in faucibus. Morbi id hendrerit lorem. Donec elementum tellus vitae lacus porta gravida. Mauris fermentum fringilla magna, quis sagittis massa rutrum a. Nulla consectetur mauris quis mi elementum, et scelerisque enim dapibus. Nullam ac mi mi. Mauris volutpat dictum nulla, a suscipit diam fringilla nec. Sed augue ante, laoreet sed vulputate non, sagittis nec nulla.Maecenas viverra arcu diam
-
-* Morbi porta mi in pellentesque facilisis.
-* Quisque imperdiet ex quis aliquet lacinia.
-* Donec eget dui semper, aliquam ligula sed, egestas nulla.
-* Mauris id massa vitae neque viverra consectetur at ut orci.
-
-Interdum et malesuada fames ac ante ipsum primis in faucibus. Cras commodo elementum tincidunt. Maecenas convallis erat congue odio rutrum, sit amet euismod erat tempor. Etiam eu rutrum felis.
+&nbsp;
