@@ -77,6 +77,4 @@ _comments:
   testimonial_body_text: This is testinomial.
 ---
 
-## &nbsp;
-
 &nbsp;
