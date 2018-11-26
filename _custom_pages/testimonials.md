@@ -12,7 +12,7 @@ layout: page
 _comments:
   testimonial_title: "This is the person's name."
   testimonial_subtitle: "This is typically the person's aircraft."
-  testimonial_body: "This is testinomial."
+  testimonial_body_html: "This is testinomial."
 ---
 
 <h2>Exemplum Document Filler Text</h2>
