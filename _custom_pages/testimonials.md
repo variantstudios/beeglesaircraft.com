@@ -11,7 +11,7 @@ testimonials:
       Beegles Aircraft is the ultimate airframe shop for you aircraft. Be it
       repair, restoration or a modification, their staff has the most experience
       and performs the best job period! Other shops talk about precision and/or
-      "attention to detail'" but at Beegles, you really get it. I highly
+      "attention to detail" but at Beegles, you really get it. I highly
       recommend them.
   - testimonial_title: Bernie Schroder
     testimonial_subtitle: 'N5468E, 1980 Cessna A185F'
