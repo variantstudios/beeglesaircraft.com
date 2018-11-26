@@ -1,0 +1,23 @@
+<div class="testimonial">
+    {% for testimonial in page.testimonials %}
+    <section class="testimonials">
+
+        <div class="card testimonial">
+            <div class="card-content">
+                <p class="title is-4">
+                    “{{testimonial.testimonial_body_text}}”
+                </p>
+                <p class="title is-5">
+                    {{testimonial.testimonial_title}}
+                </p>
+                <p class="subtitle is-6">{{testimonial.testimonial_subtitle}}</p>
+            </div>
+        </div>
+    </section>
+
+
+
+
+
+    {% endfor %}
+</div>
