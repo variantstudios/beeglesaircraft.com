@@ -1,0 +1,26 @@
+img.right-inline {
+    float: right;
+    margin: 0 0 1rem 1rem;
+}
+
+img.left-inline {
+    float: left;
+    margin: 0 1rem 1rem 0;
+}
+
+img.center-block {
+    display: block;
+    margin: 0 auto;
+}
+
+.align-to-right {
+    text-align: right;
+}
+
+.align-to-left {
+    text-align: left;
+}
+
+.align-to-center {
+    text-align: center;
+}
