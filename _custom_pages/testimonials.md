@@ -7,7 +7,7 @@ hero_image: /assets/images/hero/final3.jpg
 testimonials:
   - testimonial_title: Paul Swanstrom
     testimonial_sub: Cessna A185F N185M
-    testimonial_body: >-
+    testimonial_body_html: >-
       Beegles Aircraft is the ultimate airframe shop for you aircraft. Be it
       repair, restoration or a modification, their staff has the most experience
       and performs the best job period! Other shops talk about precision and/or
