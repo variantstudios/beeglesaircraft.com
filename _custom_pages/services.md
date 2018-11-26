@@ -3,6 +3,7 @@ title: Aircraft Services
 search_engine_optimization:
   page_title: Aircraft Services
   page_description: Beegles Aircraft Services
+hero_image: /assets/images/hero/final3.jpg
 layout: page
 ---
 
@@ -10,7 +11,7 @@ layout: page
 
 ### Fuselage Repair
 
-We can provide you quality aircraft structural repairs on all metal construction aircraft providing the highest quality and value of your aircraft. 
+We can provide you quality aircraft structural repairs on all metal construction aircraft providing the highest quality and value of your aircraft.
 
 ### Wing Repair
 

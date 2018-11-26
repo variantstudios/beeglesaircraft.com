@@ -5,6 +5,7 @@ search_engine_optimization:
   page_description: >-
     Here are some of the closest accommodations near Beegles Aircraft Service in
     Greeley, CO.
+hero_image: /assets/images/hero/final3.jpg
 layout: page
 ---
 ## Hotels:

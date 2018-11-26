@@ -1,8 +1,9 @@
 ---
-title: Contact 
+title: Contact
 search_engine_optimization:
   page_title: Contact title goes here.
   page_description: Contact this sweet Contact page.
+hero_image: /assets/images/hero/final3.jpg
 layout: contact
 ---
 

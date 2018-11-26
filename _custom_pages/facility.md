@@ -1,9 +1,10 @@
 ---
-title: "Our Facility" 
+title: "Our Facility"
 search_engine_optimization:
   page_title: "Beegles' Facility"
   page_description: "Our 40,000 square foot state-of-the-art facilities feature the most current diagnostic
 and repair equipment available."
+hero_image: /assets/images/hero/final3.jpg
 layout: page
 ---
 

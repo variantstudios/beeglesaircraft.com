@@ -5,6 +5,7 @@ search_engine_optimization:
   page_description: >-
     Beegles Aircraft Service, Inc. takes great pride in our ability to repair,
     rebuild, restore, and refurbish aircraft.
+hero_image: /assets/images/hero/final3.jpg
 layout: page
 ---
 
