@@ -4,16 +4,18 @@ sub_title: Add an option sub title here
 search_engine_optimization:
   page_title: About title goes here.
   page_description: About this sweet about page.
-hero_image: '/assets/images/hero/final3.jpg'
+hero_image: /assets/images/hero/final3.jpg
 page_image_gallery:
-  - image_title:
-    gallery_image_path:
+  - image_title: test one
+    gallery_image_path: /assets/images/completed-3.jpg
+  - image_title: test two
+    gallery_image_path: /assets/images/completed-7.jpg
 layout: page
 ---
 
-Beegles Aircraft Service, Inc., located at the Greeley/Weld County Airport (GXY),Beegles Sign in Greeley, Colorado, has been in service since 1946 and has a current staff of 25 full time employees. We are a FAA Certified Repair Station, (Number BX4R092M), with a Class III Airframe rating and additionally have Power plant, Propeller, and landing gear limited ratings, and comply with the FAA mandated drug and alcohol screenings programs.
+Beegles Aircraft Service, Inc., located at the Greeley/Weld County Airport (GXY), Beegles Sign in Greeley, Colorado, has been in service since 1946 and has a current staff of 25 full time employees. We are a FAA Certified Repair Station, (Number BX4R092M), with a Class III Airframe rating and additionally have Power plant, Propeller, and landing gear limited ratings, and comply with the FAA mandated drug and alcohol screenings programs.
 
-Complete turnkey repairs, to include disassembly and transportation of aircraft, aircraft ferrying services, major structural repairs, reassembly, painting, and aircraft delivery are our specialty. However; we also offer a complete line of specialized services, such as: wing repairs, control surface repairs, fuselage repairs, and also accomplish many modifications, alterations, STC's, and aircraft refurbishing. 
+Complete turnkey repairs, to include disassembly and transportation of aircraft, aircraft ferrying services, major structural repairs, reassembly, painting, and aircraft delivery are our specialty. However; we also offer a complete line of specialized services, such as: wing repairs, control surface repairs, fuselage repairs, and also accomplish many modifications, alterations, STC's, and aircraft refurbishing.&nbsp;
 
 We are confident in our ability to supply such a service to you. Using guidelines set forth in the following documents: Federal Aviation Regulations, FAA Airworthiness Directives, Cessna's Continuing Airworthiness Program, Manufactures Maintenance and Parts Manuals, and Manufactures Service Information and Bulletins, we can complete projects in a safe professional and timely manner.
 
