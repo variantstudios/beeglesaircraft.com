@@ -43,7 +43,7 @@ class: contact
             <div class="carousel-revolver">
                 {% if page.image_gallery[0].gallery_image_path %} {% for image in page.image_gallery %}
                 <div>
-                    <a href="{{image.gallery_image_path}}" class="image-link"><img src="{{site.cloudinaryurl}}image/fetch/h_400,c_fill,c_fill,q_65/{{site.url}}{{image.gallery_image_path}}" alt="{{image.image_title}}"></a>
+                    <a href="{{image.gallery_image_path}}" class="image-link" title="{{image.image_title}}"><img src="{{site.cloudinaryurl}}image/fetch/h_400,c_fill,c_fill,f_auto/{{site.url}}{{image.gallery_image_path}}" alt="{{image.image_title}}"></a>
                 </div>
                 {% endfor %} {% endif %}
             </div>

@@ -74,6 +74,11 @@ $(document).ready(function() {
   }
   // lightbox
   if ($('.image-link').length) {
-    $('.image-link').magnificPopup({ type: 'image' });
+    $('.image-link').magnificPopup({
+      type: 'image',
+      gallery: {
+        enabled: true
+      }
+    });
   }
 });
