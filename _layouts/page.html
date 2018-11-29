@@ -34,10 +34,11 @@ layout: default
 </section>
 
 <main class="section">
-    <div class="columns">
-        <section class="column">{{content}}</section>
-        {% if page.testimonials[0].testimonial_body_text %} <section class="column {% if page.page_image_gallery[0].gallery_image_path %} is-three-quarters {% endif %}">{% include testimonials.html %} </section>{% endif %}
-        {% if page.page_image_gallery[0].gallery_image_path %}<section class="column is-one-third">{% include gallery.html %}</section>{% endif %}
+    <div class="container">
+        <section class="content">{{content}}</section>
+        {% if page.testimonials[0].testimonial_body_text %}
+        <section class="column {% if page.page_image_gallery[0].gallery_image_path %} is-three-quarters {% endif %}">{% include testimonials.html %} </section>{% endif %} {% if page.page_image_gallery[0].gallery_image_path %}
+        <section class="column is-one-third">{% include gallery.html %}</section>{% endif %}
         </section>
     </div>
 </main>

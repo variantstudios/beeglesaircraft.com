@@ -70,6 +70,9 @@ testimonials:
       way to make sure I was taken care of. You may or may not know that
       everything I just mentioned is unusual in the world of piston aviation!
       There are no "squawks" now after putting about 10 hours on the plane.
+page_image_gallery:
+  - image_title:
+    gallery_image_path:
 layout: page
 _comments:
   testimonial_title: This is the person's name.

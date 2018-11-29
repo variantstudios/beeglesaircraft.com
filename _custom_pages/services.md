@@ -4,6 +4,9 @@ search_engine_optimization:
   page_title: Aircraft Services
   page_description: Beegles Aircraft Services
 hero_image: /assets/images/hero/final3.jpg
+page_image_gallery:
+  - image_title:
+    gallery_image_path:
 layout: page
 ---
 

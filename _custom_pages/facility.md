@@ -5,10 +5,13 @@ search_engine_optimization:
   page_description: "Our 40,000 square foot state-of-the-art facilities feature the most current diagnostic
 and repair equipment available."
 hero_image: /assets/images/hero/final3.jpg
+page_image_gallery:
+  - image_title:
+    gallery_image_path:
 layout: page
 ---
 
-## Out Facility
+## Our Facility
 
 Beegles Aircrafts new facility offers the best in aviation service to our customers. Our 40,000 square foot state-of-the-art facilities feature the most current diagnostic and repair equipment available. Our highly skilled technicians will be fully equipped to get you and your airplane flying as quickly as possible. Our facility is loaded with a full comprehensive tool room and a all inclusive resource room carrying every part and maintenance manual for your aircraft. We are also equipped with factory, Beech, Piper, and Cessna jigs.
 
