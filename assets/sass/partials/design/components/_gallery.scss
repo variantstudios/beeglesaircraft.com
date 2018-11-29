@@ -1,21 +1,20 @@
-.revolver.carousel-revolver .rv-controls .rv-prev,
-.revolver.carousel-revolver .rv-controls .rv-next {
-    color: #ffffff;
-}
-
-.revolver.carousel-revolver .rv-controls .rv-page.active {
-    background: #a4191b;
-}
-
-.revolver.carousel-revolver .rv-controls .rv-page {
-    background-color: #242424;
-}
-
-.revolver.carousel-revolver .rv-controls .rv-prev,
-.revolver .rv-controls .rv-next {
-    background-color: #242424;
-}
-
-.rv-item img {
-    padding: 0 .5rem 0 0;
+.carousel-revolver-gallery,
+.revolver.carousel-revolver {
+    .rv-controls .rv-prev,
+    .rv-controls .rv-next {
+        color: #ffffff;
+    }
+    .rv-controls .rv-page.active {
+        background: #a4191b;
+    }
+    .rv-controls .rv-page {
+        background-color: #242424;
+    }
+    .rv-controls .rv-prev,
+    .revolver .rv-controls .rv-next {
+        background-color: #242424;
+    }
+    .rv-item img {
+        padding: 0 .5rem 0 0;
+    }
 }

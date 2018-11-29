@@ -64,7 +64,8 @@ $(document).ready(function() {
     navigation: [ '&larr;', '&rarr;' ],
     pagination: true,
     paginationNumbers: false,
-    items: 1
+    items: 1,
+    breakpoints: [ [ 1, 1 ] ]
   };
   if ($('.carousel-revolver').length) {
     $('.carousel-revolver').revolver(options);
