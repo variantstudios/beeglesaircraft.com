@@ -14,11 +14,15 @@
     display: flex;
     picture {
         min-width: 100%;
-        object-fit: cover;
+        
         max-width: 100%;
         flex-shrink: 0;
         position: absolute;
         height: 300px;
+        img {
+            width: 100%;
+            object-fit: cover;
+        }
         @media screen and (min-width: 1088px) {
             height: 600px;
         }
