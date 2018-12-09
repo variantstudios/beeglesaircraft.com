@@ -35,19 +35,18 @@ $(document).ready(function() {
     }
   }
 
-  function CaptchaCallback() {
-    var grecaptcha;
-    // eslint-disable-line no-unused-vars
-    if ($('#RecaptchaField1').length) {
-      grecaptcha.render('RecaptchaField1', {
-        sitekey: 'ADD-A-GOOGLE_RECAPTCHA-KEY-HERE'
-      });
-    }
-    if ($('#RecaptchaField2').length) {
-      grecaptcha.render('RecaptchaField2', {
-        sitekey: 'ADD-A-GOOGLE_RECAPTCHA-KEY-HERE'
-      });
-    }
-  }
-  CaptchaCallback();
 });
+
+
+var CaptchaCallback = function() { // eslint-disable-line no-unused-vars
+  if ($('#RecaptchaField1').length) {
+    grecaptcha.render('RecaptchaField1', {
+      sitekey: '6Lfwtn8UAAAAAK-glFkkFIqcKb2rfzvWLdBd7YjL'
+    });
+  }
+  if ($('#RecaptchaField2').length) {
+    grecaptcha.render('RecaptchaField2', {
+      sitekey: '6Lfwtn8UAAAAAK-glFkkFIqcKb2rfzvWLdBd7YjL'
+    });
+  }
+};

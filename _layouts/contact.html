@@ -43,7 +43,7 @@ class: contact
                 {{page.webform.thank_you_message}}
             </div>
 
-            <form id="contact-form" method="post" action="/contact-us/?sent=true">
+            <form id="contact-form" method="post" action="/contact/?sent=true">
                 <input type="hidden" name="_to" value="{{page.webform.to}}">
                 <input type="hidden" name="_subject" value="{{page.webform.subject}}">
                 <input type="text" name="_gotcha" style="display: none;">
@@ -76,6 +76,7 @@ class: contact
 
                 <div class="control">
                     <div class="g-recaptcha left" id="RecaptchaField1"></div>
+                    <br />
                 </div>
 
 
