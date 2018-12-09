@@ -21,7 +21,7 @@
     - text: Accommodations
       url: /accommodations/
     - text: Our Article in Cessna Owner Magazine
-      url: http://viewer.zmags.com/publication/9128d279#/9128d279/1
+      url: 'http://viewer.zmags.com/publication/9128d279#/9128d279/1'
 - text: Contact
   url: /contact/
   subitems:
@@ -29,3 +29,5 @@
       url: /quote/
     - text: Map and Directions
       url: /map/
+    - text: Airport Information
+      url: /airport-information/
