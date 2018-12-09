@@ -41,12 +41,12 @@ $(document).ready(function() {
 var CaptchaCallback = function() { // eslint-disable-line no-unused-vars
   if ($('#RecaptchaField1').length) {
     grecaptcha.render('RecaptchaField1', {
-      sitekey: '6Lfwtn8UAAAAAK-glFkkFIqcKb2rfzvWLdBd7YjL'
+      sitekey: '6LfMuX8UAAAAADQdoaOFQPG3YAMszkAthBXM8vJy'
     });
   }
   if ($('#RecaptchaField2').length) {
     grecaptcha.render('RecaptchaField2', {
-      sitekey: '6Lfwtn8UAAAAAK-glFkkFIqcKb2rfzvWLdBd7YjL'
+      sitekey: '6LfMuX8UAAAAADQdoaOFQPG3YAMszkAthBXM8vJy'
     });
   }
 };
