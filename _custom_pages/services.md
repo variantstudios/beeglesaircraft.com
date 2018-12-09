@@ -1,10 +1,10 @@
 ---
 title: Aircraft Services
-sub_title: 
+sub_title:
 search_engine_optimization:
   page_title: Aircraft Services
   page_description: Beegles Aircraft Services
-hero_image: /assets/images/completed/completed_1.jpg
+hero_image: /assets/images/comleted/completed_1.jpg
 page_image_gallery:
   - image_title:
     gallery_image_path:
@@ -35,7 +35,7 @@ We provide experienced, personalized service to ensure that your aircraft paintw
 
 ### Pilot Service – Pick-up and Delivery
 
-Full aircraft ferry service for light aircraft ranging from single engine piston types to twin engine turbo props.&nbsp; Our pilots have over 7500 hours total time, 2500 multi engine and 1500 hours turbine.
+Full aircraft ferry service for light aircraft ranging from single engine piston types to twin engine turbo props.  Our pilots have over 7500 hours total time, 2500 multi engine and 1500 hours turbine.
 
 ### Aircraft Transportation
 
