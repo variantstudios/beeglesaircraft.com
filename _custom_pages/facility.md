@@ -7,13 +7,22 @@ search_engine_optimization:
 and repair equipment available."
 hero_image: /assets/images/hero/final3.jpg
 page_image_gallery:
-  - image_title:
-    gallery_image_path:
+  - image_title: "Aircraft repair"
+    gallery_image_path: "/assets/images/facility/facility_8.jpg"
+  - image_title: "Aircraft repair"
+    gallery_image_path: "/assets/images/facility/facility_2.jpg"
+  - image_title: "Aircraft repair"
+    gallery_image_path: "/assets/images/facility/facility_1.jpg"
+  - image_title: "Aircraft repair"
+    gallery_image_path: "/assets/images/facility/facility_3.jpg"
+  - image_title: "Aircraft repair"
+    gallery_image_path: "/assets/images/facility/facility_4.jpg"
+  - image_title: "Aircraft repair"
+    gallery_image_path: "/assets/images/facility/facility_5.jpg"
+  - image_title: "Aircraft repair"
+    gallery_image_path: "/assets/images/facility/facility_6.jpg"
 layout: page
 ---
-
-## Our Facility
-
 Beegles Aircrafts new facility offers the best in aviation service to our customers. Our 40,000 square foot state-of-the-art facilities feature the most current diagnostic and repair equipment available. Our highly skilled technicians will be fully equipped to get you and your airplane flying as quickly as possible. Our facility is loaded with a full comprehensive tool room and a all inclusive resource room carrying every part and maintenance manual for your aircraft. We are also equipped with factory, Beech, Piper, and Cessna jigs.
 
 We have a full line of control surfaces ready to go, for exchange, to eliminate your downtime. We also carry an wide variety of inventory with over $400,000 of new parts listed on Partsbase.com should you ever need a part.
