@@ -1,9 +1,10 @@
 ---
 title: Aircraft Services
+sub_title: 
 search_engine_optimization:
   page_title: Aircraft Services
   page_description: Beegles Aircraft Services
-hero_image: /assets/images/hero/final3.jpg
+hero_image: /assets/images/completed/completed_1.jpg
 page_image_gallery:
   - image_title:
     gallery_image_path:

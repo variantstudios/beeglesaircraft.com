@@ -1,5 +1,6 @@
 ---
 title: Custom Testimonials
+sub_title: 
 search_engine_optimization:
   page_title: Beegles Custom Testimonials
   page_description: Read what our customers have to say.

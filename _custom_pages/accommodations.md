@@ -1,5 +1,6 @@
 ---
 title: Local Greeley Accommodations
+sub_title: 
 search_engine_optimization:
   page_title: Local Greeley Accommodations
   page_description: >-

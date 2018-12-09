@@ -1,6 +1,6 @@
 ---
 title: About Beegles Aircraft Service
-sub_title: Add an option sub title here
+sub_title: 
 search_engine_optimization:
   page_title: About title goes here.
   page_description: About this sweet about page.

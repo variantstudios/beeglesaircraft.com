@@ -35,7 +35,12 @@ layout: default
 
 <main class="section">
     <div class="columns content">
-        <section class="column">{{content}}</section>
+        <section class="column">
+            <div>{{content}}<div>
+            {% if page.map_url %}<div>{% include map.html %}</div>{% endif %}
+        </section>
+
+       
 
         {% if page.testimonials[0].testimonial_body_text %}
         <section class="column">{% include testimonials.html %} </section>{% endif %}
