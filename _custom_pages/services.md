@@ -4,32 +4,32 @@ sub_title:
 search_engine_optimization:
   page_title: Aircraft Services
   page_description: Beegles Aircraft Services
-hero_image: /assets/images/comleted/completed_1.jpg
+hero_image: /assets/images/facility/facility_7.jpg
 page_image_gallery:
-  - image_title: "Aircraft Paint"
-    gallery_image_path: "/assets/images/paint/paint_1.jpg"
-  - image_title: "Aircraft retrieval"
-    gallery_image_path: "/assets/images/retrieval/retrieval_1.jpg"
-  - image_title: "Aircraft Paint"
-    gallery_image_path: "/assets/images/paint/paint_2.jpg"
-  - image_title: "Aircraft retrieval"
-    gallery_image_path: "/assets/images/retrieval/retrieval_2.jpg"
-  - image_title: "Aircraft Paint"
-    gallery_image_path: "/assets/images/paint/paint_3.jpg"
-  - image_title: "Aircraft repair"
-    gallery_image_path: "/assets/images/repair/repair_1.jpg"
-  - image_title: "Aircraft Paint"
-    gallery_image_path: "/assets/images/paint/paint_4.jpg"
-  - image_title: "Aircraft repair"
-    gallery_image_path: "/assets/images/repair/repair_2.jpg"
-  - image_title: "Aircraft Paint"
-    gallery_image_path: "/assets/images/paint/paint_5.jpg"
-  - image_title: "Aircraft repair"
-    gallery_image_path: "/assets/images/repair/repair_3.jpg"
-  - image_title: "Aircraft Paint"
-    gallery_image_path: "/assets/images/paint/paint_6.jpg"
-  - image_title: "Aircraft Paint"
-    gallery_image_path: "/assets/images/paint/paint_7.jpg"
+  - image_title: Aircraft Paint
+    gallery_image_path: /assets/images/paint/paint_1.jpg
+  - image_title: Aircraft retrieval
+    gallery_image_path: /assets/images/retrieval/retrieval_1.jpg
+  - image_title: Aircraft Paint
+    gallery_image_path: /assets/images/paint/paint_2.jpg
+  - image_title: Aircraft retrieval
+    gallery_image_path: /assets/images/retrieval/retrieval_2.jpg
+  - image_title: Aircraft Paint
+    gallery_image_path: /assets/images/paint/paint_3.jpg
+  - image_title: Aircraft repair
+    gallery_image_path: /assets/images/repair/repair_1.jpg
+  - image_title: Aircraft Paint
+    gallery_image_path: /assets/images/paint/paint_4.jpg
+  - image_title: Aircraft repair
+    gallery_image_path: /assets/images/repair/repair_2.jpg
+  - image_title: Aircraft Paint
+    gallery_image_path: /assets/images/paint/paint_5.jpg
+  - image_title: Aircraft repair
+    gallery_image_path: /assets/images/repair/repair_3.jpg
+  - image_title: Aircraft Paint
+    gallery_image_path: /assets/images/paint/paint_6.jpg
+  - image_title: Aircraft Paint
+    gallery_image_path: /assets/images/paint/paint_7.jpg
 layout: page
 ---
 
