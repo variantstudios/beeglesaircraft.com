@@ -17,3 +17,4 @@ layout: contact
 
 # Contact Beegles
 
+Remember that our goal would be to complete this project, provide you with an aircraft that we can both be proud of, and you can achieve many more hours and years of safe flying.  Of course, we would get the joy of stating, we "saved" another aircraft.
