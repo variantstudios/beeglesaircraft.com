@@ -8,8 +8,28 @@ search_engine_optimization:
     rebuild, restore, and refurbish aircraft.
 hero_image: /assets/images/hero/final3.jpg
 page_image_gallery:
-  - image_title:
-    gallery_image_path:
+  - image_title: "Aircraft repair"
+    gallery_image_path: "/assets/images/repair/repair_1.jpg"
+  - image_title: "Aircraft repair"
+    gallery_image_path: "/assets/images/repair/repair_2.jpg"
+  - image_title: "Aircraft repair"
+    gallery_image_path: "/assets/images/repair/repair_3.jpg"
+  - image_title: "Aircraft repair"
+    gallery_image_path: "/assets/images/repair/repair_4.jpg"
+  - image_title: "Aircraft repair"
+    gallery_image_path: "/assets/images/repair/repair_5.jpg"
+  - image_title: "Aircraft repair"
+    gallery_image_path: "/assets/images/repair/repair_6.jpg"
+  - image_title: "Aircraft repair"
+    gallery_image_path: "/assets/images/repair/repair_6.jpg"
+  - image_title: "Aircraft repair"
+    gallery_image_path: "/assets/images/repair/repair_8.jpg"
+  - image_title: "Aircraft repair"
+    gallery_image_path: "/assets/images/repair/repair_9.jpg"
+  - image_title: "Aircraft repair"
+    gallery_image_path: "/assets/images/repair/repair_10.jpg"
+  - image_title: "Aircraft repair"
+    gallery_image_path: "/assets/images/repair/repair_11.jpg"
 layout: page
 ---
 

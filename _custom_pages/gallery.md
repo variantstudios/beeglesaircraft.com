@@ -7,15 +7,21 @@ search_engine_optimization:
 hero_image: /assets/images/hero/final3.jpg
 image_gallery:
   - image_title: Add a photo title here
-    gallery_image_path: /assets/images/retrieval/retrieval_1.jpg
+    gallery_image_path: /assets/images/comleted/comleted_1.jpg
   - image_title: Add a photo title here
-    gallery_image_path: /assets/images/retrieval/retrieval_2.jpg
+    gallery_image_path: /assets/images/comleted/comleted_2.jpg
   - image_title: Add a photo title here
-    gallery_image_path: /assets/images/retrieval/retrieval_3.jpg
+    gallery_image_path: /assets/images/comleted/comleted_3.jpg
   - image_title: Add a photo title here
-    gallery_image_path: /assets/images/retrieval/retrieval_4.jpg
+    gallery_image_path: /assets/images/comleted/comleted_4.jpg
   - image_title: Add a photo title here
-    gallery_image_path: /assets/images/retrievalretrieval_5.jpg
+    gallery_image_path: /assets/images/comleted/comleted_5.jpg
+  - image_title: Add a photo title here
+    gallery_image_path: /assets/images/comleted/comleted_6.jpg
+  - image_title: Add a photo title here
+    gallery_image_path: /assets/images/comleted/comleted_7.jpg
+  - image_title: Add a photo title here
+    gallery_image_path: /assets/images/comleted/comleted_8.jpg
 layout: gallery
 ---
-
+# Here's a few of our complted aircraft repairs

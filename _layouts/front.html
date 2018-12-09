@@ -32,7 +32,14 @@ layout: default
 </section>
 
 <main class="section">
-    <div class="container">
-      <section class="content">{{content}}</section>
+    <div class="columns content">
+        <section class="column">
+            <div>{{content}}<div>
+            {% if page.map_url %}<div>{% include map.html %}</div>{% endif %}
+        </section>
+
+        {% if page.page_image_gallery[0].gallery_image_path %}
+        <section class="column is-one-third">{% include gallery.html %}</section>{% endif %}
+
     </div>
 </main>

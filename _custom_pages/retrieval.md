@@ -8,12 +8,30 @@ search_engine_optimization:
     aircraft.
 hero_image: /assets/images/hero/final3.jpg
 page_image_gallery:
-  - image_title: "Add a photo title here"
-    gallery_image_path: "/assets/images/home.png"
-  - image_title: "Add a photo title here"
-    gallery_image_path: "/assets/images/home.png"
-  - image_title: "Add a photo title here"
-    gallery_image_path: "/assets/images/home.png"
+  - image_title: "Aircraft retrieval"
+    gallery_image_path: "/assets/images/retrieval/retrieval_1.jpg"
+  - image_title: "Aircraft retrieval"
+    gallery_image_path: "/assets/images/retrieval/retrieval_2.jpg"
+  - image_title: "Aircraft retrieval"
+    gallery_image_path: "/assets/images/retrieval/retrieval_3.jpg"
+  - image_title: "Aircraft retrieval"
+    gallery_image_path: "/assets/images/retrieval/retrieval_4.jpg"
+  - image_title: "Aircraft retrieval"
+    gallery_image_path: "/assets/images/retrieval/retrieval_5.jpg"
+  - image_title: "Aircraft retrieval"
+    gallery_image_path: "/assets/images/retrieval/retrieval_6.jpg"
+  - image_title: "Aircraft retrieval"
+    gallery_image_path: "/assets/images/retrieval/retrieval_6.jpg"
+  - image_title: "Aircraft retrieval"
+    gallery_image_path: "/assets/images/retrieval/retrieval_8.jpg"
+  - image_title: "Aircraft retrieval"
+    gallery_image_path: "/assets/images/retrieval/retrieval_9.jpg"
+  - image_title: "Aircraft retrieval"
+    gallery_image_path: "/assets/images/retrieval/retrieval_10.jpg"
+  - image_title: "Aircraft retrieval"
+    gallery_image_path: "/assets/images/retrieval/retrieval_11.jpg"
+  - image_title: "Aircraft retrieval"
+    gallery_image_path: "/assets/images/retrieval/retrieval_12.jpg"
 layout: page
 ---
 
