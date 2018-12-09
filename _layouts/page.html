@@ -15,7 +15,7 @@ layout: default
         </div>
     </div>
     {% if page.hero_image %}
-    <picture>
+   <picture>
         <!--[if IE 9]><video style="display: none;"><![endif]-->
         <source srcset="{{site.cloudinaryurl}}image/fetch/w_400,c_fill,q_auto/{{site.url}}{{ page.hero_image}}" media="(max-width: 400px)">
         <source srcset="{{site.cloudinaryurl}}image/fetch/w_600,c_fill,q_auto/{{site.url}}{{ page.hero_image}}" media="(max-width: 600px)">
