@@ -1,6 +1,6 @@
 ---
 title: Contact Beegles Aircraft Services
-sub_title: 
+sub_title:
 search_engine_optimization:
   page_title: Contact title goes here.
   page_description: Contact this sweet Contact page.
@@ -11,7 +11,7 @@ page_image_gallery:
     gallery_image_path:
 webform:
   subject: 'Beegles Aircraft Services: Contact Form'
-  to: 'brent@variantstudios.com'
+  to: 'allen.sapp@beeglesair.com,brent@variantstudios.com'
   thank_you_message: Thank you. Your message has been sent. We will contact you shortly.
 layout: contact
 ---
