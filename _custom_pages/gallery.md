@@ -4,6 +4,7 @@ sub_title:
 search_engine_optimization:
   page_title: Beegles' Photo Gallery
   page_description: View a colledction of our photos.
+  share_image_path:
 hero_image: /assets/images/hero/final3.jpg
 image_gallery:
   - image_title: Add a photo title here
@@ -24,4 +25,4 @@ image_gallery:
     gallery_image_path: /assets/images/completed/completed_8.jpg
 layout: gallery
 ---
-# Here's a few of our complted aircraft repairs
+# Here's a few of our completed aircraft repairs

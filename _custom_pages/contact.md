@@ -4,6 +4,7 @@ sub_title:
 search_engine_optimization:
   page_title: Contact title goes here.
   page_description: Contact this sweet Contact page.
+  share_image_path:
 hero_image: /assets/images/hero/final3.jpg
 page_image_gallery:
   - image_title:

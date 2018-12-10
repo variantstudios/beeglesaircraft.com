@@ -4,6 +4,7 @@ sub_title:
 search_engine_optimization:
   page_title: About title goes here.
   page_description: About this sweet about page.
+  share_image_path:
 hero_image: /assets/images/hero/final3.jpg
 page_image_gallery:
   - image_title: test one

@@ -3,9 +3,8 @@ title: Aircraft Repair Services
 sub_title: 
 search_engine_optimization:
   page_title: Aircraft Repair Services
-  page_description: >-
-    Beegles Aircraft Service, Inc. takes great pride in our ability to repair,
-    rebuild, restore, and refurbish aircraft.
+  page_description: "Beegles Aircraft Service, Inc. takes great pride in our ability to repair, "rebuild, restore, and refurbish aircraft.
+  share_image_path:
 hero_image: /assets/images/hero/final3.jpg
 page_image_gallery:
   - image_title: "Aircraft repair"

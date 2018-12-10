@@ -4,6 +4,7 @@ sub_title:
 search_engine_optimization:
   page_title: Aircraft Services
   page_description: Beegles Aircraft Services
+  share_image_path:
 hero_image: /assets/images/repair/repair_10.jpg
 page_image_gallery:
   - image_title: Aircraft Paint

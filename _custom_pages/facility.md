@@ -5,6 +5,7 @@ search_engine_optimization:
   page_title: "Beegles' Facility"
   page_description: "Our 40,000 square foot state-of-the-art facilities feature the most current diagnostic
 and repair equipment available."
+  share_image_path:
 hero_image: /assets/images/hero/final3.jpg
 page_image_gallery:
   - image_title: "Aircraft repair"

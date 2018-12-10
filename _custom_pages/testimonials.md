@@ -4,6 +4,7 @@ sub_title:
 search_engine_optimization:
   page_title: Beegles Custom Testimonials
   page_description: Read what our customers have to say.
+  share_image_path:
 hero_image: /assets/images/hero/final3.jpg
 testimonials:
   - testimonial_title: Paul Swanstrom

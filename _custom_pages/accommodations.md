@@ -3,9 +3,8 @@ title: Local Greeley Accommodations
 sub_title: 
 search_engine_optimization:
   page_title: Local Greeley Accommodations
-  page_description: >-
-    Here are some of the closest accommodations near Beegles Aircraft Service in
-    Greeley, CO.
+  page_description: "Here are some of the closest accommodations near Beegles Aircraft Service in Greeley, CO."
+  share_image_path:
 hero_image: /assets/images/hero/final3.jpg
 page_image_gallery:
   - image_title:

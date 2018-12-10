@@ -34,16 +34,10 @@ layout: default
 <main class="section">
     <div class="columns content">
         <section class="column">
-            <div class="editable">{{content}}<div>
-            {% if page.map_url %}<div>{% include map.html %}</div>{% endif %}
-             {% if page.testimonials[0].testimonial_body_text %}
-            <div>{% include testimonials.html %} </div>{% endif %}
+            <div class="editable">{{content}}</div>
+             {% if page.map_url %}<div>{% include map.html %}</div>{% endif %}
+             {% if page.testimonials[0].testimonial_body_text %}<div>{% include testimonials.html %}</div>{% endif %}
         </section>
-
-       
-
-       
-
         {% if page.page_image_gallery[0].gallery_image_path %}
         <section class="column is-one-third">{% include gallery.html %}</section>{% endif %}
 

@@ -3,9 +3,8 @@ title: Aircraft Retrieval
 sub_title: 
 search_engine_optimization:
   page_title: Aircraft Retrieval Service
-  page_description: >-
-    Beegles Aircraft Service Inc, provides safe and secure transportation of
-    aircraft.
+  page_description: Beegles Aircraft Service Inc, provides safe and secure transportation of aircraft.
+  share_image_path:
 hero_image: /assets/images/hero/final3.jpg
 page_image_gallery:
   - image_title: "Aircraft retrieval"
