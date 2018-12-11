@@ -1,11 +1,11 @@
 ---
 title: Custom Testimonials
-sub_title: 
+sub_title:
 search_engine_optimization:
   page_title: Beegles Custom Testimonials
   page_description: Read what our customers have to say.
   share_image_path:
-hero_image: /assets/images/hero/final3.jpg
+hero_image: /assets/images/final3---copy-2-8.JPG
 testimonials:
   - testimonial_title: Paul Swanstrom
     testimonial_subtitle: Cessna A185F N185M
@@ -82,4 +82,3 @@ _comments:
   testimonial_body_text: This is testinomial.
 ---
 
-&nbsp;
