@@ -7,7 +7,7 @@ search_engine_optimization:
     Beegles Aircraft Service Inc, provides safe and secure transportation of
     aircraft.
   share_image_path:
-hero_image: /assets/images/retrieval-hero.JPG
+hero_image: /assets/images/img-4054.JPG
 page_image_gallery:
   - image_title: Aircraft retrieval
     gallery_image_path: /assets/images/retrieval/retrieval_1.jpg
