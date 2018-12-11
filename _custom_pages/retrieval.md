@@ -1,36 +1,38 @@
 ---
 title: Aircraft Retrieval
-sub_title: 
+sub_title:
 search_engine_optimization:
   page_title: Aircraft Retrieval Service
-  page_description: Beegles Aircraft Service Inc, provides safe and secure transportation of aircraft.
+  page_description: >-
+    Beegles Aircraft Service Inc, provides safe and secure transportation of
+    aircraft.
   share_image_path:
-hero_image: /assets/images/hero/final3.jpg
+hero_image: /assets/images/retrieval-hero.JPG
 page_image_gallery:
-  - image_title: "Aircraft retrieval"
-    gallery_image_path: "/assets/images/retrieval/retrieval_1.jpg"
-  - image_title: "Aircraft retrieval"
-    gallery_image_path: "/assets/images/retrieval/retrieval_2.jpg"
-  - image_title: "Aircraft retrieval"
-    gallery_image_path: "/assets/images/retrieval/retrieval_3.jpg"
-  - image_title: "Aircraft retrieval"
-    gallery_image_path: "/assets/images/retrieval/retrieval_4.jpg"
-  - image_title: "Aircraft retrieval"
-    gallery_image_path: "/assets/images/retrieval/retrieval_5.jpg"
-  - image_title: "Aircraft retrieval"
-    gallery_image_path: "/assets/images/retrieval/retrieval_6.jpg"
-  - image_title: "Aircraft retrieval"
-    gallery_image_path: "/assets/images/retrieval/retrieval_6.jpg"
-  - image_title: "Aircraft retrieval"
-    gallery_image_path: "/assets/images/retrieval/retrieval_8.jpg"
-  - image_title: "Aircraft retrieval"
-    gallery_image_path: "/assets/images/retrieval/retrieval_9.jpg"
-  - image_title: "Aircraft retrieval"
-    gallery_image_path: "/assets/images/retrieval/retrieval_10.jpg"
-  - image_title: "Aircraft retrieval"
-    gallery_image_path: "/assets/images/retrieval/retrieval_11.jpg"
-  - image_title: "Aircraft retrieval"
-    gallery_image_path: "/assets/images/retrieval/retrieval_12.jpg"
+  - image_title: Aircraft retrieval
+    gallery_image_path: /assets/images/retrieval/retrieval_1.jpg
+  - image_title: Aircraft retrieval
+    gallery_image_path: /assets/images/retrieval/retrieval_2.jpg
+  - image_title: Aircraft retrieval
+    gallery_image_path: /assets/images/retrieval/retrieval_3.jpg
+  - image_title: Aircraft retrieval
+    gallery_image_path: /assets/images/retrieval/retrieval_4.jpg
+  - image_title: Aircraft retrieval
+    gallery_image_path: /assets/images/retrieval/retrieval_5.jpg
+  - image_title: Aircraft retrieval
+    gallery_image_path: /assets/images/retrieval/retrieval_6.jpg
+  - image_title: Aircraft retrieval
+    gallery_image_path: /assets/images/retrieval/retrieval_6.jpg
+  - image_title: Aircraft retrieval
+    gallery_image_path: /assets/images/retrieval/retrieval_8.jpg
+  - image_title: Aircraft retrieval
+    gallery_image_path: /assets/images/retrieval/retrieval_9.jpg
+  - image_title: Aircraft retrieval
+    gallery_image_path: /assets/images/retrieval/retrieval_10.jpg
+  - image_title: Aircraft retrieval
+    gallery_image_path: /assets/images/retrieval/retrieval_11.jpg
+  - image_title: Aircraft retrieval
+    gallery_image_path: /assets/images/retrieval/retrieval_12.jpg
 layout: page
 ---
 
