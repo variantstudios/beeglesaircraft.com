@@ -5,7 +5,7 @@ search_engine_optimization:
   page_title: Contact title goes here.
   page_description: Contact this sweet Contact page.
   share_image_path:
-hero_image: /assets/images/hero/final3.jpg
+hero_image: /assets/images/final3---copy-2-6.JPG
 page_image_gallery:
   - image_title:
     gallery_image_path:
