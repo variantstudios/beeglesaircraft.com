@@ -1,11 +1,11 @@
 ---
 title: About Beegles Aircraft Service
-sub_title: 
+sub_title:
 search_engine_optimization:
   page_title: About title goes here.
   page_description: About this sweet about page.
   share_image_path:
-hero_image: /assets/images/hero/final3.jpg
+hero_image: /assets/images/final3---copy-2-4.JPG
 page_image_gallery:
   - image_title: test one
     gallery_image_path: /assets/images/completed-3.jpg
@@ -22,6 +22,6 @@ We are confident in our ability to supply such a service to you. Using guideline
 
 ### History
 
-Beegles Aircraft Service was founded by Ed Beegles in 1946 in Greeley, Colorado. Ed had recently returned from active duty with the U.S. Navy during WWII when he began converting WWII trainers into crop dusters. During the 50’s and 60’s, Beegles Aircraft evolved into a major airframe structural repair facility. Ed Beegles retired in 1979, but still enjoys flying and working on his Luscombe T8F as a certified A&P and IA at the age of 83.
+Beegles Aircraft Service was established in 1946 by Edward Beegles Greeley, Colorado. Ed had recently returned from active duty with the U.S. Navy during WWII when he began converting WWII trainers into crop dusters. During the 50’s and 60’s, Beegles Aircraft evolved into a major airframe structural repair facility. Ed Beegles retired in 1979. Ed remained active in the aviation community and was inducted into the Colorado Aviation Hall of Fame in 1988 and awarded the Charles Taylor Master Mechanic Award in 2001. Ed's prized Luscombe T8F continues to fly and is displayed inside the Greeley-Weld County airport terminal building. Ed left us on Christmas Eve of 2011 and will continue to fly for eternity!
 
-After 60 years of business, Beegles Aircraft has completed repairs to over 10,000 damaged aircraft and has continued to exceed industry standards. With a highly trained staff of 25 employees, and over 400 years of combined experience, Beegles is revered as an industry leader by both aircraft owners and insurance companies.
+After 70 years of business, Beegles Aircraft has completed repairs to over 12,000 damaged aircraft and has continued to exceed industry standards. With a highly trained staff of 25 employees, and over 400 years of combined experience, Beegles is revered as an industry leader by both aircraft owners and insurance companies.
