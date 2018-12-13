@@ -5,7 +5,7 @@ search_engine_optimization:
   page_title: Airport Information
   page_description: Airport Information for Greeley Colorado.
   share_image_path:
-hero_image: /assets/images/hero/final3.jpg
+hero_image: /assets/images/final3---copy-2-14.JPG
 page_image_gallery:
   - image_title:
     gallery_image_path:
