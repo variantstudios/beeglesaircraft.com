@@ -14,8 +14,10 @@ layout: page
 
 Download our certifications for your vendor audit
 
-[…](/Beegles Air Agency Certificate.pdf)
+# **[…](/Beegles Air Agency Certificate.pdf)&nbsp;**
 
-[...](/Beegles Ops Specs.pdf)
+Air Agency Certificate
 
-&nbsp;
+# **[...](/Beegles Ops Specs.pdf)**
+
+Ops Specs
