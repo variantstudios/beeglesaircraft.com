@@ -12,6 +12,6 @@ page_image_gallery:
 layout: page
 ---
 
-Download our certifications for you vendor audit
+[...](/Beegles Air Agency Certificate.pdf)Download our certifications for you vendor audit
 
-[...](/Beegles Air Agency Certificate.pdf)
+[…](/Beegles Air Agency Certificate.pdf)
