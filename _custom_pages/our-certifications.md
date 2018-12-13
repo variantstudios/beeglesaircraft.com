@@ -16,4 +16,6 @@ Download our certifications for your vendor audit
 
 […](/Beegles Air Agency Certificate.pdf)
 
+[...](/Beegles Ops Specs.pdf)
+
 &nbsp;
