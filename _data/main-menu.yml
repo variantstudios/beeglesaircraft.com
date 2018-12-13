@@ -24,6 +24,8 @@
       url: 'http://viewer.zmags.com/publication/9128d279#/9128d279/1'
     - text: Our Certifications
       url: /our-certifications/
+    - text: Careers
+      url: /careers/
 - text: Contact
   url: /contact/
   subitems:
