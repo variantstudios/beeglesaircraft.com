@@ -26,4 +26,4 @@ image_gallery:
 layout: gallery
 ---
 
-# Here’s a few of our completed aircraft repairs
+# Here are a few of our completed aircraft repairs
