@@ -30,7 +30,7 @@ page_image_gallery:
 layout: page
 ---
 
-Beegles Aircraft Service, Inc. takes great pride in our ability to repair, rebuild, restore, and refurbish aircraft. In our opinion, there is no greater satisfaction in aviation, than to take a damaged aircraft and return it to a pre-accident condition. We feel that after completing a repair or rebuild of an aircraft, we return the aircraft back to its owner, in a better and safer condition.
+Beegles Aircraft Service LLC takes great pride in our ability to repair, rebuild, restore, and refurbish aircraft. In our opinion, there is no greater satisfaction in aviation, than to take a damaged aircraft and return it to a pre-accident condition. We feel that after completing a repair or rebuild of an aircraft, we return the aircraft back to its owner, in a better and safer condition.
 
 Our Primary aviation business focus is in the repair of damaged aircraft. This includes: aircraft damaged from accident, hangar rash, wind storms, tornadoes, hurricanes, floods, hail storms, and every other type of potential catastrophe. We travel throughout the United States evaluating damaged aircraft, providing the owners and insurance companies damage assessments and repair estimates. If the aircraft is economically repairable, we make every attempt to secure the repair.
 
