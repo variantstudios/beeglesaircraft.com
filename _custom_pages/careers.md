@@ -83,6 +83,5 @@ If you are interested in joining our team please contact us to answer any questi
 
 &nbsp;
 
-# […](/Application For Employment.pdf)
+[![Application for Employment](/assets/images/icons/pdf.svg)](//Application For Employment.pdf){: target="_blank"} Application for Employment
 
-Application for Employment
