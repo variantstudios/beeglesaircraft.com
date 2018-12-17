@@ -38,4 +38,4 @@ This is where we feel the aviation industry has benefited from our company for t
 
 Due to the aging fleet of general aviation aircraft and the cost of new production aircraft, we have been involved in the restoration and refurbishment of several aircraft. Many of the restorations occurred as a result of an aircraft owner choosing to not just have this damaged aircraft repaired, but have it repaired and refurbished. Several of the other aircraft restoration started with an airworthy, flying aircraft, and a complete refurbishment accomplished.
 
-In case you have an emergency, please call Ed Schumacher at (970) 481-4132.
+&nbsp;
