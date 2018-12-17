@@ -14,7 +14,7 @@ layout: page
 
 Download our certifications for your vendor audit.
 
-&nbsp;
+![](/assets/images/icons/pdf.svg)
 
 # **[…](/Beegles Air Agency Certificate.pdf)&nbsp;**
 
