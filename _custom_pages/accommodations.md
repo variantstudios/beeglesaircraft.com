@@ -16,32 +16,34 @@ layout: page
 
 ## Hotels:
 
-Here are some of the closest accommodations near Beegles Aircraft Service in Greeley, CO.  They include Hotels, Motels and even several Bed and Breakfasts.  The lists of amenities are listed next to each.  Hotels are listed in order by closest from Greeley - Weld County Airport.
+Here are some of the closest accommodations near Beegles Aircraft Service in Greeley, CO.&nbsp; They include Hotels, Motels and even several Bed and Breakfasts.&nbsp; The lists of amenities are listed next to each.&nbsp; Hotels are listed in order by closest from Greeley - Weld County Airport.
 
-**REGENCY HOTEL** - Located 3 miles from the airport in downtown Greeley.  Executive and whirlpool suites, heated indoor pool, access to health club, children under 18 stay free, Bourbon Street Restaurant and Bar in hotel.  Hotel built next to railroad tracks, but closest to the airport.  Ask for the airport special.  (970) 353-8444 or 1-800-528-1234. [bestwestern.com](https://www.bestwestern.com/en_US.html){: target="_blank"}
+**Double Tree**&nbsp;- Located next to the Union Colony Civic Center. With amenities designed for the savvy business traveler, we are the premier location for meetings and events in Northern Colorado. From ranch-based guest room wall murals to themed suites reflecting the Colorado community, each space within our hotel will immerse the guest in a uniquely Colorado experience. 1-970-304-0000&nbsp;
 
-**CURRIE INN BED AND BREAKFAST** - Located 4 miles from the airport near downtown Greeley and UNC.  Providing distinctive lodging with a personal touch.  (970) 392-1221.  [greeleybedandbreakfast.com](http://www.greeleybedandbreakfast.com/){: target="_blank"}
+**REGENCY HOTEL**&nbsp;- Located 3 miles from the airport in downtown Greeley.&nbsp; Executive and whirlpool suites, heated indoor pool, access to health club, children under 18 stay free, Bourbon Street Restaurant and Bar in hotel.&nbsp; Hotel built next to railroad tracks, but closest to the airport.&nbsp; Ask for the airport special.&nbsp; (970) 353-8444 or 1-800-528-1234.&nbsp;[bestwestern.com](https://www.bestwestern.com/en_US.html){: target="_blank"}
 
-**GREELEY INN** - Located 4 miles from the airport in downtown Greeley.  Normally have the cheapest rates around but not the nicest in town.  (970) 353-3216. 
+**CURRIE INN BED AND BREAKFAST**&nbsp;- Located 4 miles from the airport near downtown Greeley and UNC.&nbsp; Providing distinctive lodging with a personal touch.&nbsp; (970) 392-1221. &nbsp;[greeleybedandbreakfast.com](http://www.greeleybedandbreakfast.com/){: target="_blank"}
 
-**COMFORT INN** - Located 6 miles from the airport on Greeley’s south side off US Hwy 34 Bypass.  Free continental “plus” breakfast, in-room coffee service, indoor pool and spa, fitness center, and high speed internet service.  (970) 330-6380 [choicehotels.com](https://www.choicehotels.com/colorado/greeley/comfort-inn-hotels/co182?source=gyxt){: target="_blank"}
+**GREELEY INN**&nbsp;- Located 4 miles from the airport in downtown Greeley.&nbsp; Normally have the cheapest rates around but not the nicest in town.&nbsp; (970) 353-3216.&nbsp;
 
-**COUNTRY INN & SUITES BY RADISSON** - Located 6 miles from the airport on Greeley’s south side off US Hwy 34 Bypass.  Free continental “plus” breakfast, in-room coffee service, indoor pool and spa.  (970) 330-3404 or 1-800-456-4000.  [countryinns.com](https://www.countryinns.com/greeley-hotel-co-80631/cogreele?s_cid=os.amer-us-cis-COGREELE-gmb){: target="_blank"}
+**COMFORT INN**&nbsp;- Located 6 miles from the airport on Greeley’s south side off US Hwy 34 Bypass.&nbsp; Free continental “plus” breakfast, in-room coffee service, indoor pool and spa, fitness center, and high speed internet service.&nbsp; (970) 330-6380 [choicehotels.com](https://www.choicehotels.com/colorado/greeley/comfort-inn-hotels/co182?source=gyxt){: target="_blank"}
 
-**DAYS INN BY WYNDHAM** - Located 6 miles from the airport on Greeley’s south side off US Hwy 34 Bypass.  (970) 330-6380.  [wyndhamhotels.com](https://www.wyndhamhotels.com/days-inn/greeley-colorado/days-inn-greeley/overview?CID=LC:DI:20160927:RIO:Local:SM-dimotn){: target="_blank"}
+**COUNTRY INN & SUITES BY RADISSON**&nbsp;- Located 6 miles from the airport on Greeley’s south side off US Hwy 34 Bypass.&nbsp; Free continental “plus” breakfast, in-room coffee service, indoor pool and spa.&nbsp; (970) 330-3404 or 1-800-456-4000. &nbsp;[countryinns.com](https://www.countryinns.com/greeley-hotel-co-80631/cogreele?s_cid=os.amer-us-cis-COGREELE-gmb){: target="_blank"}
 
-**FAIRFIELD INN BY MARRIOTT** - Located 6 miles from the airport on Greeley’s south side off US Hwy 34 Bypass.  (970) 339-5030 or 1-800-228-2800.  [marriott.com](https://www.marriott.com/hotels/travel/ftcgr-fairfield-inn-and-suites-greeley/?scid=bb1a189a-fec3-4d19-a255-54ba596febe2){: target="_blank"}
+**DAYS INN BY WYNDHAM**&nbsp;- Located 6 miles from the airport on Greeley’s south side off US Hwy 34 Bypass.&nbsp; (970) 330-6380. &nbsp;[wyndhamhotels.com](https://www.wyndhamhotels.com/days-inn/greeley-colorado/days-inn-greeley/overview?CID=LC:DI:20160927:RIO:Local:SM-dimotn){: target="_blank"}
 
-**GREELEY SUPER 8 MOTEL** - Located 6 miles from the airport on Greeley’s south side off US Hwy 34 Bypass.  Whirlpool suite, breakfast bar, free coffee.  (970) 330-8800 or 1-800-800-8000. [wyndhamhotels.com](https://www.wyndhamhotels.com/super-8/greeley-colorado/super-8-greeley/overview?CID=LC:SE::GGL:RIO:National:08004&amp;iata=00065402){: target="_blank"}
+**FAIRFIELD INN BY MARRIOTT**&nbsp;- Located 6 miles from the airport on Greeley’s south side off US Hwy 34 Bypass.&nbsp; (970) 339-5030 or 1-800-228-2800. &nbsp;[marriott.com](https://www.marriott.com/hotels/travel/ftcgr-fairfield-inn-and-suites-greeley/?scid=bb1a189a-fec3-4d19-a255-54ba596febe2){: target="_blank"}
 
-**HOLIDAY INN EXPRESS** - Located 6 miles south the airport on Greeley’s south side off US Hwy 34 Bypass.  Outdoor jacuzzi, fitness room, complimentary breakfast bar, jacuzzi suites, in-room coffee makers, restaurants and shopping nearby.  (970) 330-7495 or 1-800-HOLIDAY. [ihg.com](https://www.ihg.com/holidayinnexpress/hotels/us/en/greeley/gxywe/hoteldetail?cm_mmc=GoogleMaps-_-EX-_-US-_-GXYWE){: target="_blank"}
+**GREELEY SUPER 8 MOTEL**&nbsp;- Located 6 miles from the airport on Greeley’s south side off US Hwy 34 Bypass.&nbsp; Whirlpool suite, breakfast bar, free coffee.&nbsp; (970) 330-8800 or 1-800-800-8000. [wyndhamhotels.com](https://www.wyndhamhotels.com/super-8/greeley-colorado/super-8-greeley/overview?CID=LC:SE::GGL:RIO:National:08004&amp;iata=00065402){: target="_blank"}
 
-**HAMPTON INN & SUITES GREELEY** - Located 6 miles south of the airport in Evans, south of Greeley.  Free deluxe continental breakfast, free evening soup bar, kids under 18 stay free, voice mail in all rooms, all rooms computer accessible, free access to local health club.  (970) 356-2180 or 1-800-254-5105.  [hamptoninn3.hilton.com](https://hamptoninn3.hilton.com/en/hotels/colorado/hampton-inn-and-suites-greeley-GXYCOHX/index.html){: target="_blank"}
+**HOLIDAY INN EXPRESS**&nbsp;- Located 6 miles south the airport on Greeley’s south side off US Hwy 34 Bypass.&nbsp; Outdoor jacuzzi, fitness room, complimentary breakfast bar, jacuzzi suites, in-room coffee makers, restaurants and shopping nearby.&nbsp; (970) 330-7495 or 1-800-HOLIDAY.&nbsp;[ihg.com](https://www.ihg.com/holidayinnexpress/hotels/us/en/greeley/gxywe/hoteldetail?cm_mmc=GoogleMaps-_-EX-_-US-_-GXYWE){: target="_blank"}
+
+**HAMPTON INN & SUITES GREELEY**&nbsp;- Located 6 miles south of the airport in Evans, south of Greeley.&nbsp; Free deluxe continental breakfast, free evening soup bar, kids under 18 stay free, voice mail in all rooms, all rooms computer accessible, free access to local health club.&nbsp; (970) 356-2180 or 1-800-254-5105.&nbsp; [hamptoninn3.hilton.com](https://hamptoninn3.hilton.com/en/hotels/colorado/hampton-inn-and-suites-greeley-GXYCOHX/index.html){: target="_blank"}
 
 ## Transportation:
 
 ### *Don’t rent a car.*
 
-The Greeley Shuttle offers transportation from DIA to our front door. The cost is about $35.00 per person. The ride is about an hour. Please visit their website to view schedule times and/or reserve a seat. You can also reach them at (970) 353-2502. [greeleyshuttle.com](http://www.greeleyshuttle.com/){: target="_blank"}
+The Greeley Shuttle offers transportation from DIA to our front door. The cost is about $35.00 per person. The ride is about an hour. Please visit their website to view schedule times and/or reserve a seat. You can also reach them at (970) 353-2502.&nbsp;[greeleyshuttle.com](http://www.greeleyshuttle.com/){: target="_blank"}
 
 Once you arrive to our facility via airplane or shuttle, we will be more than happy to loan you our courtesy car to roam around town in or adventure up into the beautiful Rocky Mountains. Just give us a couple days heads up and we will make sure it is fueled and ready for your use.
