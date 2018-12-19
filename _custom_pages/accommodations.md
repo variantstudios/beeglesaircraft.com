@@ -18,7 +18,7 @@ layout: page
 
 Here are some of the closest accommodations near Beegles Aircraft Service in Greeley, CO.&nbsp; They include Hotels, Motels and even several Bed and Breakfasts.&nbsp; The lists of amenities are listed next to each.&nbsp; Hotels are listed in order by closest from Greeley - Weld County Airport.
 
-**REGENCY HOTEL**&nbsp;- Located 3 miles from the airport in downtown Greeley.&nbsp; Executive and whirlpool suites, heated indoor pool, access to health club, children under 18 stay free, Bourbon Street Restaurant and Bar in hotel.&nbsp; Hotel built next to railroad tracks, but closest to the airport.&nbsp; Ask for the airport special.&nbsp; (970) 353-8444 or 1-800-528-1234.&nbsp;[bestwestern.com](https://www.bestwestern.com/en_US.html){: target="_blank"}
+**CLARION HOTEL**&nbsp;- Located 3 miles from the airport in downtown Greeley.&nbsp; Heated indoor pool, fitness center, free Wifi, free breakfast. Restaurant and Bar in hotel.&nbsp; Hotel built next to railroad tracks, but closest to the airport.&nbsp; &nbsp;(970) 353-8444 [Clarion Hotel and Conference Center](https://www.choicehotels.com/colorado/greeley/clarion-hotels/co229?source=gyxt){: target="_blank"}
 
 **DOUBLE TREE**&nbsp;- Greeley's newest hotel and conference center, located next to the Union Colony Civic Center and only 3.2 miles from the airport. With amenities designed for the savvy business traveler, we are the premier location for meetings and events in Northern Colorado.&nbsp; 1-970-304-0000&nbsp; [Double Tree Greeley](https://doubletree3.hilton.com/en/hotels/colorado/doubletree-by-hilton-greeley-at-lincoln-park-DENGCDT/index.html){: target="_blank"}
 
