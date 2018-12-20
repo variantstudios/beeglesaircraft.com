@@ -81,9 +81,22 @@ Final assembly and disassembly requires the ability to do the following tasks:
 * Weigh and Balance aircraft
 * Primarily a 7:30 A.M. to 4:30 P.M. Monday through Friday position
 
+### Pilot/Mechanic
+
+Pilot/mechanic position can include of the following tasks:
+
+* Repairing broken aircraft in the field to make safe for ferry flight
+* Flying repaired aircraft to Beegles Aircraft Service for permanent repairs
+* Test flying aircraft after repairs and reporting condition for final adjustments of systems
+* Delivering aircraft back to customer
+
+###### This is a flexible position as we ferry, test fly, and deliver multiple types and models of aircraft.
+
+&nbsp;
+
 ### What we offer
 
-Beegles Aircraft Services offers competitive pay, a simple IRA, cafeteria plan and cost of living compensation.
+Beegles Aircraft Services offers competitive pay, a simple IRA, cafeteria plan, and cost of living compensation.
 
 ###### Note: All employees of Beegles Aircraft Services are required to pass a drug screen prior to employment and subject to random drug tests while employed.
 
