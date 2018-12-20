@@ -12,9 +12,7 @@ page_image_gallery:
 layout: page
 ---
 
-Beegles Aircraft Service is always on the lookout for talented, hardworking people to join our team in the following positions:
-
-&nbsp;
+Beegles Aircraft Service is constantly on the lookout for talented, hardworking people to join our team in the following positions:
 
 ### Hauling
 
@@ -25,7 +23,9 @@ Consists of traveling to the aircraft(s) for disassembly, loading and transport.
 * Taping holes
 * Taking pictures
 * Organizing removed components and hardware for reassembly
-* Loading the aircraft(s) on a trailer and securing.
+* Loading the aircraft(s) on a trailer and securing
+* Driving aircraft to destination
+* This job requires a lot of travel and working away on nights and weekends. We do reimburse with a per diem on top of your normal pay.
 
 ### Sheet Metal
 
@@ -39,6 +39,7 @@ Sheet metal repair work consists of the following tasks:
 * Rivet structures together
 * Buck rivets
 * Perform paperwork for all completed work
+* Primarily a 7:30 to 4:30 Monday through Friday position
 
 ### Engine
 
@@ -51,15 +52,17 @@ Engine repair work consists of the following tasks:
 * Rig all systems to include prop, throttle, mixture and cowl flaps
 * Perform engine run up
 * Troubleshoot&nbsp;
+* Primarily a 7:30 to 4:30 Monday through Friday position
 
 ### Paint/Detail
 
 Painting and detailing include prepping the aircraft for paint, matching and mixing the paint, painting, finishing and detailing. The following tasks are a part of the job.
 
-* Prepping aircraft for paint-Washing, scuffing, sanding, wiping down, taping, covering, laying out stripes, chemical stripping, priming,
+* Prepping aircraft for paint-Washing, scuffing, sanding, wiping down, taping, covering, laying out stripes, chemical stripping, priming
 * Matching and mixing paint-using paint codes, using the color analyzer
 * Painting-Base coat, clear coat, stripes, blending, finishing, unmasking, cleaning over spray, touch up
 * Detailing- Polishing, buffing, waxing, cleaning windows, tires, abrasion boots and interior, vacuuming and shampooing carpet
+* Primarily a 7:30 to 4:30 Monday through Friday position
 
 ### Final Assembly/Disassembly
 
@@ -74,14 +77,16 @@ Final assembly and disassembly requires the ability to do the following tasks
 * Troubleshoot
 * Static balance control surfaces
 * Weigh and Balance aircraft
+* Primarily a 7:30 to 4:30 Monday through Friday position
 
 ### What we offer
 
-Beegles Aircraft Services offers competitive pay, a simple IRA, MORE TO COME
+Beegles Aircraft Services offers competitive pay, a simple IRA, cafeteria plan and medical insurance compensation.
 
-If you are interested in joining our team please contact us to answer any questions or send an application and attached resume to ...
+###### Note: All employees of Beegles Aircraft Services are required to pass a drug screen prior to employment and subject to random drug tests while employed.
 
 &nbsp;
 
-[![Application for Employment](/assets/images/icons/pdf.svg)](/Application For Employment.pdf){: target="_blank"} Application for Employment
+If you are interested in joining our team please contact us to answer any questions or send an application and attached resume to …
 
+[![Application for Employment](/assets/images/icons/pdf.svg)](/Application For Employment.pdf){: target="_blank"} Application for Employment
