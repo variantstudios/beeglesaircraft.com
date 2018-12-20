@@ -41,7 +41,7 @@ Sheet metal repair work consists of the following tasks:
 * Rivet structures together
 * Buck rivets
 * Perform paperwork for all completed work
-* Primarily a 7:30 to 4:30 Monday through Friday position
+* Primarily a 7:30 A.M. to 4:30 P.M. Monday through Friday position
 
 ### Engine
 
@@ -54,7 +54,7 @@ Engine repair work consists of the following tasks:
 * Rig all systems to include prop, throttle, mixture and cowl flaps
 * Perform engine run up
 * Troubleshoot&nbsp;
-* Primarily a 7:30 to 4:30 Monday through Friday position
+* Primarily a 7:30 A.M. to 4:30 P.M. Monday through Friday position
 
 ### Paint/Detail
 
@@ -64,7 +64,7 @@ Painting and detailing include prepping the aircraft for paint, matching and mix
 * Matching and mixing paint-using paint codes, using the color analyzer
 * Painting-Base coat, clear coat, stripes, blending, finishing, unmasking, cleaning over spray, touch up
 * Detailing- Polishing, buffing, waxing, cleaning windows, tires, abrasion boots and interior, vacuuming and shampooing carpet
-* Primarily a 7:30 to 4:30 Monday through Friday position
+* Primarily a 7:30 A.M. to 4:30 P.M. Monday through Friday position
 
 ### Final Assembly/Disassembly
 
@@ -79,15 +79,13 @@ Final assembly and disassembly requires the ability to do the following tasks
 * Troubleshoot
 * Static balance control surfaces
 * Weigh and Balance aircraft
-* Primarily a 7:30 to 4:30 Monday through Friday position
+* Primarily a 7:30 A.M. to 4:30 P.M. Monday through Friday position
 
 ### What we offer
 
 Beegles Aircraft Services offers competitive pay, a simple IRA, cafeteria plan and cost of living compensation.
 
 ###### Note: All employees of Beegles Aircraft Services are required to pass a drug screen prior to employment and subject to random drug tests while employed.
-
-&nbsp;
 
 If you are interested in joining our team please contact us to answer any questions or send an application and attached resume to …
 
