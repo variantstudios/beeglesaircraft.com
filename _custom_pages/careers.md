@@ -12,7 +12,9 @@ page_image_gallery:
 layout: page
 ---
 
-Beegles Aircraft Service is constantly on the lookout for talented, hardworking people to join our team in the following positions:
+## Beegles Aircraft Service is constantly on the lookout for talented, hardworking people to join our team in the following positions:
+
+### &nbsp;
 
 ### Hauling
 
