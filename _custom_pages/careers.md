@@ -27,7 +27,7 @@ Consists of traveling to the aircraft(s) for disassembly, loading and transport.
 * Organizing removed components and hardware for reassembly
 * Loading the aircraft(s) on a trailer and securing
 * Driving aircraft to destination
-* This job requires a lot of travel and working away on nights and weekends. We do reimburse with a per diem on top of your normal pay.
+* This job requires a lot of travel and working away on nights and weekends. We do reimburse with a per diem on top of your normal pay
 
 ### Sheet Metal
 
@@ -83,7 +83,7 @@ Final assembly and disassembly requires the ability to do the following tasks
 
 ### What we offer
 
-Beegles Aircraft Services offers competitive pay, a simple IRA, cafeteria plan and medical insurance compensation.
+Beegles Aircraft Services offers competitive pay, a simple IRA, cafeteria plan and cost of living compensation.
 
 ###### Note: All employees of Beegles Aircraft Services are required to pass a drug screen prior to employment and subject to random drug tests while employed.
 
