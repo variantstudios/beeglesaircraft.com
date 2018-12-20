@@ -100,6 +100,8 @@ Beegles Aircraft Services offers competitive pay, a simple IRA, cafeteria plan, 
 
 ###### Note: All employees of Beegles Aircraft Services are required to pass a drug screen prior to employment and subject to random drug tests while employed.
 
+&nbsp;
+
 If you are interested in joining our team please contact us to answer any questions or send an application and attached resume to …
 
 [![Application for Employment](/assets/images/icons/pdf.svg)](/Application For Employment.pdf){: target="_blank"} Application for Employment
