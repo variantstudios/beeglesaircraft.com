@@ -18,19 +18,13 @@ layout: page
 
 ### What we offer
 
-Monday through Friday 7:30 A.M. to 4:30 P.M. work week
-
-Competitive pay
-
-Simple IRA
-
-Cafeteria plan
-
-Cost of living compensation
-
-Six paid holidays annually
-
-One week vacation accrued through your first year, two weeks accrued annually after your first year, and three weeks accrued annually after twenty years.
+* Monday through Friday 7:30 A.M. to 4:30 P.M. work week
+* Competitive pay
+* Simple IRA
+* Cafeteria plan
+* Cost of living compensation
+* Six paid holidays annually
+* One week vacation accrued through your first year, two weeks accrued annually after your first year, and three weeks accrued annually after twenty years.
 
 ### Hauling
 
