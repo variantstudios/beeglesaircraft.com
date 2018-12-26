@@ -12,14 +12,32 @@ page_image_gallery:
 layout: page
 ---
 
-## Beegles Aircraft Service is constantly on the lookout for talented, hardworking people to join our team in the following positions:
+## Beegles Aircraft Service is constantly on the lookout for talented, hardworking people to join our team:
 
-### &nbsp;
+&nbsp;
+
+### What we offer
+
+Monday through Friday 7:30 A.M. to 4:30 P.M. work week
+
+Competitive pay
+
+Simple IRA
+
+Cafeteria plan
+
+Cost of living compensation
+
+Six paid holidays annually
+
+One week vacation accrued through your first year, two weeks accrued annually after your first year, and three weeks accrued annually after twenty years.
 
 ### Hauling
 
-Consists of traveling to the aircraft(s) for disassembly, loading, and transport. Employee must be able to perform loading tasks which consist of:
+Consists of traveling to the aircraft location for disassembly, loading, and transport. Employee must be able to perform loading tasks which consist of:
 
+* Defueling aircraft
+* Aircraft disassembly
 * Securing loose cables and wires
 * Padding surfaces, wings, and fuselage
 * Taping holes
@@ -27,7 +45,7 @@ Consists of traveling to the aircraft(s) for disassembly, loading, and transport
 * Organizing removed components and hardware for reassembly
 * Loading the aircraft(s) on a trailer and securing
 * Driving aircraft to destination
-* This job requires a lot of travel and working away on nights and weekends. We include Per Diem on top of your normal pay
+* This job requires a lot of travel and working away on nights and weekends. We include Per Diem in addition to normal pay
 
 ### Sheet Metal
 
@@ -41,20 +59,18 @@ Sheet metal repair work consists of the following tasks:
 * Rivet structures together
 * Buck rivets
 * Perform paperwork for all completed work
-* Primarily a 7:30 A.M. to 4:30 P.M. Monday through Friday position
 
 ### Engine
 
 Engine repair work consists of the following tasks:
 
 * Remove engine from aircraft
-* Disassemble/remove accessories and baffling. Prepare engine to be shipped out for overhaul
+* Disassemble/remove accessories and baffling. Prepare engine to be shipped out for inspection
 * Reassemble, install accessories and baffling after overhaul. Prepare engine for installation
-* Install engine in aircraft
+* Reinstall engine in aircraft
 * Rig all systems to include prop, throttle, mixture, and cowl flaps
 * Perform engine run-up
 * Troubleshoot&nbsp;
-* Primarily a 7:30 A.M. to 4:30 P.M. Monday through Friday position
 
 ### Paint/Detail
 
@@ -64,7 +80,6 @@ Painting and detailing include prepping the aircraft for paint, matching & mixin
 * Matching and mixing paint-using paint codes and using the color analyzer
 * Painting-Base coat, clear coat, stripes, blending, finishing, unmasking, cleaning over spray, and touch up
 * Detailing- Polishing, buffing, waxing, cleaning windows, tires, abrasion boots and interior, vacuuming, and shampooing carpet
-* Primarily a 7:30 A.M. to 4:30 P.M. Monday through Friday position
 
 ### Final Assembly/Disassembly
 
@@ -77,31 +92,27 @@ Final assembly and disassembly requires the ability to do the following tasks:
 * Rig systems-Ailerons, flaps, elevators, rudder, trim systems, gear, and gear doors
 * Check operation of lights, stall warning, and pitot-static system
 * Troubleshoot
+* Electronic skills
 * Static balance control surfaces
 * Weigh and Balance aircraft
-* Primarily a 7:30 A.M. to 4:30 P.M. Monday through Friday position
 
 ### Pilot/Mechanic
 
 Pilot/mechanic position can include of the following tasks:
 
-* Repairing broken aircraft in the field to make safe for ferry flight
+* Completing temporary repairs to aircraft at aircraft location for ferry flight
 * Flying repaired aircraft to Beegles Aircraft Service for permanent repairs
-* Test flying aircraft after repairs and reporting condition for final adjustments of systems
+* Performing operational test flight to aircraft after Beegles Aircraft Service repairs
 * Delivering aircraft back to customer
 
 ###### This is a flexible position as we ferry, test fly, and deliver multiple types and models of aircraft.
 
-&nbsp;
+###### &nbsp;
 
-### What we offer
-
-Beegles Aircraft Services offers competitive pay, a simple IRA, cafeteria plan, and cost of living compensation.
-
-###### Note: All employees of Beegles Aircraft Services are required to pass a drug screen prior to employment and subject to random drug tests while employed.
+###### Note:&nbsp;Beegles Aircraft Services is a certified FAA repair station and is required to follow the anti drug/alcohol program requiring random drug tests.
 
 &nbsp;
 
-If you are interested in joining our team please contact us to answer any questions or send an application and attached resume to …
+If you are interested in joining our team please contact us to answer any questions at (970) 353-9200 or at (970) 381-1372. If you are ready to apply, please send an application and attached resume to [Charlie Brink](mailto:charlie.brink@beeglesaircraft.com).&nbsp;
 
 [![Application for Employment](/assets/images/icons/pdf.svg)](/Application For Employment.pdf){: target="_blank"} Application for Employment
