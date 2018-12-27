@@ -98,15 +98,14 @@ Pilot/mechanic position can include of the following tasks:
 * Flying repaired aircraft to Beegles Aircraft Service for permanent repairs
 * Performing operational test flight to aircraft after Beegles Aircraft Service repairs
 * Delivering aircraft back to customer
-
-###### This is a flexible position as we ferry, test fly, and deliver multiple types and models of aircraft.
+* We ferry, test fly, and deliver multiple types and models of aircraft
 
 ###### &nbsp;
 
-###### Note:&nbsp;Beegles Aircraft Services is a certified FAA repair station and is required to follow the anti drug/alcohol program requiring random drug tests.
+#### Note: Beegles Aircraft Services is a certified FAA repair station and is required to follow the anti drug/alcohol program requiring random drug tests.
 
 &nbsp;
 
-If you are interested in joining our team please contact us to answer any questions at (970) 353-9200 or at (970) 381-1372. If you are ready to apply, please send an application and attached resume to [Charlie Brink](mailto:charlie.brink@beeglesaircraft.com).&nbsp;
+If you are interested in joining our team please contact us to answer any questions at (970) 353-9200 or at (970) 381-1372. If you are ready to apply, please send an application and attached resume to [Charlie.Brink@beeglesair.com.](mailto:charlie.brink@beeglesair.com)&nbsp;
 
 [![Application for Employment](/assets/images/icons/pdf.svg)](/Application For Employment.pdf){: target="_blank"} Application for Employment
