@@ -92,7 +92,7 @@ Final assembly and disassembly requires the ability to do the following tasks:
 
 ### Pilot/Mechanic
 
-Pilot/mechanic position can include of the following tasks:
+Pilot/Mechanic position can include of the following tasks:
 
 * Completing temporary repairs to aircraft at aircraft location for ferry flight
 * Flying repaired aircraft to Beegles Aircraft Service for permanent repairs
