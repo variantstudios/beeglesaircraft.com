@@ -102,7 +102,7 @@ Pilot/mechanic position can include of the following tasks:
 
 ###### &nbsp;
 
-#### Note: Beegles Aircraft Services is a certified FAA repair station and is required to follow the anti drug/alcohol program requiring random drug tests.
+##### Note: Beegles Aircraft Services is a certified FAA repair station and is required to follow the anti drug/alcohol program requiring random drug tests.
 
 &nbsp;
 
