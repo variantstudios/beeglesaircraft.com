@@ -23,14 +23,14 @@ layout: page
 * Simple IRA
 * Cafeteria plan
 * Cost of living compensation
-* Six paid holidays annually
-* One week vacation accrued through your first year, two weeks accrued annually after your first year, and three weeks accrued annually after twenty years.
+* Six paid holidays&nbsp;
+* One week of accrued vacation time after initial trial period and evaluation. Two weeks paid vacation after two full years. Three weeks paid vacation after twenty full years.
 
 ### Hauling
 
 Consists of traveling to the aircraft location for disassembly, loading, and transport. Employee must be able to perform loading tasks which consist of:
 
-* Defueling aircraft
+* De-fueling aircraft
 * Aircraft disassembly
 * Securing loose cables and wires
 * Padding surfaces, wings, and fuselage
@@ -39,7 +39,7 @@ Consists of traveling to the aircraft location for disassembly, loading, and tra
 * Organizing removed components and hardware for reassembly
 * Loading the aircraft(s) on a trailer and securing
 * Driving aircraft to destination
-* This job requires a lot of travel and working away on nights and weekends. We include Per Diem in addition to normal pay
+* This job requires a lot of travel and working away from the shop on nights and weekends. We include Per Diem in addition to normal pay
 
 ### Sheet Metal
 
@@ -63,12 +63,12 @@ Engine repair work consists of the following tasks:
 * Reassemble, install accessories and baffling after overhaul. Prepare engine for installation
 * Reinstall engine in aircraft
 * Rig all systems to include prop, throttle, mixture, and cowl flaps
-* Perform engine run-up
+* Perform engine runup
 * Troubleshoot&nbsp;
 
 ### Paint/Detail
 
-Painting and detailing include prepping the aircraft for paint, matching & mixing paint, painting, finishing, and detailing. The following tasks are a part of the job:
+Painting/detailing work consists of the following tasks:
 
 * Prepping aircraft for paint-Washing, scuffing, sanding, wiping down, taping, covering, laying out stripes, chemical stripping, and priming
 * Matching and mixing paint-using paint codes and using the color analyzer
@@ -79,11 +79,11 @@ Painting and detailing include prepping the aircraft for paint, matching & mixin
 
 Final assembly and disassembly requires the ability to do the following tasks:
 
-* Disassemble aircraft for repairs-Remove surfaces, wings, gear, and interior. Mark wires, cables & lines, and organize removed components for later assembly
+* Disassemble aircraft for repairs- Remove surfaces, wings, gear, and interior. Mark wires, cables & lines, and organize removed components for later assembly
 * Clean and inspect removed lines, cables, and wires for damage and wear
 * Reseal and service gear, actuators, and cylinders in accordance with service manuals
 * Assemble aircraft after repair-Install surfaces, wings, gear, and interior
-* Rig systems-Ailerons, flaps, elevators, rudder, trim systems, gear, and gear doors
+* Rig control systems- Ailerons, flaps, elevators, rudder, trim systems, gear, and gear doors
 * Check operation of lights, stall warning, and pitot-static system
 * Troubleshoot
 * Electronic skills
@@ -94,10 +94,10 @@ Final assembly and disassembly requires the ability to do the following tasks:
 
 Pilot/Mechanic position can include of the following tasks:
 
-* Completing temporary repairs to aircraft at aircraft location for ferry flight
+* Completing temporary repairs to aircraft for ferry flight
 * Flying repaired aircraft to Beegles Aircraft Service for permanent repairs
-* Performing operational test flight to aircraft after Beegles Aircraft Service repairs
-* Delivering aircraft back to customer
+* Performing operational test flight to aircraft after repairs
+* Delivering aircraft&nbsp;
 * We ferry, test fly, and deliver multiple types and models of aircraft
 
 ###### &nbsp;
