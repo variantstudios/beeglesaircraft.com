@@ -18,7 +18,7 @@ layout: page
 
 Here are some of the accommodations near Beegles Aircraft Service in Greeley, CO.&nbsp; They include Hotels, Motels and even several Bed and Breakfasts.&nbsp; The lists of amenities are listed next to each.&nbsp;
 
-##### These first hotels offer a discount if you mention that you are a Beegles Aircraft Service Customer. Make sure to ask!&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+##### These first hotels offer a discount if you mention that you are a Beegles Aircraft Service customer. Make sure to ask!&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 
 **DOUBLE TREE**&nbsp;- Greeley's newest hotel and conference center, located next to the Union Colony Civic Center and only 3.2 miles from the airport. With amenities designed for the savvy business traveler, we are the premier location for meetings and events in Northern Colorado.&nbsp; 970-304-0000&nbsp; [Double Tree Greeley](https://doubletree3.hilton.com/en/hotels/colorado/doubletree-by-hilton-greeley-at-lincoln-park-DENGCDT/index.html){: target="_blank"}
 
@@ -54,4 +54,12 @@ Here are some of the accommodations near Beegles Aircraft Service in Greeley, CO
 
 The Greeley Shuttle offers transportation from DIA to our front door. The cost is about $35.00 per person. The ride is about an hour. Please visit their website to view schedule times and/or reserve a seat. You can also reach them at (970) 353-2502.&nbsp;[greeleyshuttle.com](http://www.greeleyshuttle.com/){: target="_blank"}
 
+Greeley Taxi 970-324-7728, Uber and Lyft are all options for local travel as well and all service DIA.
+
 Once you arrive to our facility via airplane or shuttle, we will be more than happy to loan you our courtesy car to roam around town in or adventure up into the beautiful Rocky Mountains. Just give us a couple days heads up and we will make sure it is fueled and ready for your use.
+
+## Greeley Stampede:
+
+If you are in the area between June 26th and July 7th of 2019, Greeley will be a very busy place. The Greeley Stampede, the longest running rodeo in North America will bring an estimated 250,000 people to the area. All discounts are not honored during this time and finding a motel can be rough.
+
+&nbsp;
