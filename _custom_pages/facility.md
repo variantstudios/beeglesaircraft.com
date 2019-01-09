@@ -10,15 +10,15 @@ search_engine_optimization:
 hero_image: /assets/images/final3---copy-2-5.JPG
 page_image_gallery:
   - image_title: Aircraft repair
-    gallery_image_path: /assets/images/facility/facility_8.jpg
+    gallery_image_path: /assets/images/Final1.JPG
   - image_title: Aircraft repair
     gallery_image_path: /assets/images/facility/facility_2.jpg
   - image_title: Aircraft repair
-    gallery_image_path: /assets/images/facility/facility_3.jpg
+    gallery_image_path: /assets/images/IMG_4732.JPG
   - image_title: Aircraft repair
     gallery_image_path: /assets/images/facility/facility_4.jpg
   - image_title: Aircraft repair
-    gallery_image_path: /assets/images/facility/facility_5.jpg
+    gallery_image_path: /assets/images/IMG_4735.JPG
   - image_title: Aircraft repair
     gallery_image_path: /assets/images/facility/facility_6.jpg
 layout: page
@@ -28,7 +28,7 @@ Beegles Aircraft offers the best in aviation service to our customers. Our 40,00
 
 We have a full line of control surfaces ready to go, for exchange, to eliminate your downtime. We also carry an wide variety of inventory with over $400,000 of new parts listed on Partsbase.com should you ever need a part.
 
-Beegles new facility is located at the Weld County Airport in Greeley, Colorado with easy access to fly in and out. We are located 50 miles north of DIA but out of the Denver class B airspace. Our shop is the second building south of the main terminal.&nbsp;
+Beegles new facility is located at the Weld County Airport in Greeley, Colorado with easy access to fly in and out. We are located 50 miles north of DIA but out of the Denver class B airspace. Our shop is the second building south of the main terminal. 
 
 #### Our Facility Includes:
 
