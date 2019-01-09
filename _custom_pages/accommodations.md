@@ -20,17 +20,17 @@ Here are some of the accommodations near Beegles Aircraft Service in Greeley, CO
 
 ##### These first hotels offer a discount if you mention that you are a Beegles Aircraft Service customer. Make sure to ask!&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 
-**DOUBLE TREE**&nbsp;- Greeley's newest hotel and conference center, located next to the Union Colony Civic Center and only 3.2 miles from the airport. With amenities designed for the savvy business traveler, we are the premier location for meetings and events in Northern Colorado.&nbsp; 970-304-0000&nbsp; [Double Tree Greeley](https://doubletree3.hilton.com/en/hotels/colorado/doubletree-by-hilton-greeley-at-lincoln-park-DENGCDT/index.html){: target="_blank"}
+**DOUBLE TREE**&nbsp;- Greeley’s newest hotel and conference center, located next to the Union Colony Civic Center and only 3.2 miles from the airport. With amenities designed for the savvy business traveler, we are the premier location for meetings and events in Northern Colorado.&nbsp; 970-304-0000&nbsp; [Double Tree Greeley](https://doubletree3.hilton.com/en/hotels/colorado/doubletree-by-hilton-greeley-at-lincoln-park-DENGCDT/index.html){: target="_blank"}
 
 **HAMPTON INN & SUITES GREELEY**&nbsp;- Located 6 miles south of the airport in Evans, south of Greeley.&nbsp; Free deluxe continental breakfast, free evening soup bar, kids under 18 stay free, voice mail in all rooms, all rooms computer accessible, free access to local health club.&nbsp; 970-356-2180 or 800-254-5105.&nbsp; hamptoninn3.hilton.com
 
 **Candlewood Suites-** Located 7.9 miles from the airport Candlewood is an all-suite hotel in Northern Colorado. Free Wifi, Fitness Center, Pool, Business Center and conveniently located near shopping and dining.&nbsp; 970-330-2333.&nbsp;[Candlewood Suites Greeley](https://www.ihg.com/candlewood/hotels/us/en/greeley/gxygr/hoteldetail?cm_mmc=GoogleMaps-_-CW-_-US-_-GXYGR)
 
+&nbsp;
+
 ##### Hotels from here on are listed in order by closest from Greeley - Weld County Airport.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 
 **CLARION HOTEL**&nbsp;- Located 3 miles from the airport in downtown Greeley.&nbsp; Heated indoor pool, fitness center, free Wifi, free breakfast. Restaurant and Bar in hotel.&nbsp; Hotel built next to railroad tracks, but closest to the airport.&nbsp; &nbsp;(970) 353-8444 Clarion Hotel and Conference Center
-
-&nbsp;
 
 **CURRIE INN BED AND BREAKFAST**&nbsp;- Located 4 miles from the airport near downtown Greeley and UNC.&nbsp; Providing distinctive lodging with a personal touch.&nbsp; (970) 392-1221. &nbsp;[greeleybedandbreakfast.com](http://www.greeleybedandbreakfast.com/){: target="_blank"}
 
