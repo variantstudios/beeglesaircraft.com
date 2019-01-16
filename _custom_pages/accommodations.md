@@ -34,8 +34,6 @@ Here are some of the accommodations near Beegles Aircraft Service in Greeley, CO
 
 **CURRIE INN BED AND BREAKFAST**&nbsp;- Located 4 miles from the airport near downtown Greeley and UNC.&nbsp; Providing distinctive lodging with a personal touch.&nbsp; (970) 392-1221. &nbsp;[greeleybedandbreakfast.com](http://www.greeleybedandbreakfast.com/){: target="_blank"}
 
-**GREELEY INN**&nbsp;- Located 4 miles from the airport in downtown Greeley.&nbsp; Normally have the cheapest rates around but not the nicest in town.&nbsp; (970) 353-3216.&nbsp;
-
 **COMFORT INN**&nbsp;- Located 6 miles from the airport on Greeley’s south side off US Hwy 34 Bypass.&nbsp; Free continental “plus” breakfast, in-room coffee service, indoor pool and spa, fitness center, and high speed internet service.&nbsp; (970) 330-6380 [choicehotels.com](https://www.choicehotels.com/colorado/greeley/comfort-inn-hotels/co182?source=gyxt){: target="_blank"}
 
 **COUNTRY INN & SUITES BY RADISSON**&nbsp;- Located 6 miles from the airport on Greeley’s south side off US Hwy 34 Bypass.&nbsp; Free continental “plus” breakfast, in-room coffee service, indoor pool and spa.&nbsp; (970) 330-3404 or 1-800-456-4000. &nbsp;[countryinns.com](https://www.countryinns.com/greeley-hotel-co-80631/cogreele?s_cid=os.amer-us-cis-COGREELE-gmb){: target="_blank"}
@@ -52,9 +50,9 @@ Here are some of the accommodations near Beegles Aircraft Service in Greeley, CO
 
 ### *Don’t rent a car.*
 
-The Greeley Shuttle offers transportation from DIA to our front door. The cost is about $35.00 per person. The ride is about an hour. Please visit their website to view schedule times and/or reserve a seat. You can also reach them at (970) 353-2502.&nbsp;[greeleyshuttle.com](http://www.greeleyshuttle.com/){: target="_blank"}
+The Greeley Shuttle offers transportation from DIA to our front door. The cost is about $45.00 per person. The ride is about an hour. Please visit their website to view schedule times and/or reserve a seat. You can also reach them at (970) 353-2502.&nbsp;[greeleyshuttle.com](http://www.greeleyshuttle.com/){: target="_blank"}
 
-Greeley Taxi 970-324-7728, Uber and Lyft are all options for local travel as well and all service DIA.
+Greeley Taxi 970-324-7728, Uber and Lyft are all options for local travel as well and all service DIA. The cost is about $65.00 per person to or from DIA.
 
 Once you arrive to our facility via airplane or shuttle, we will be more than happy to loan you our courtesy car to roam around town in or adventure up into the beautiful Rocky Mountains. Just give us a couple days heads up and we will make sure it is fueled and ready for your use.
 
