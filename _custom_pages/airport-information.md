@@ -34,11 +34,13 @@ Location Identifier: KGXY<br>Airfield Elevation: 4,697’ MSL<br>Unicom Frequenc
 
 [Peak Flight Support](http://www.gxy.net/peak-flight-support.html){: target="_blank"}&nbsp;- Will be your check in point if you arrive on the weekend or after hours.&nbsp;
 
-[Advanced Aerotechnologies Group](https://advancedaerotech.com/){: target="_blank"}&nbsp;- Can perform your pitot static and transponder tests.
+&nbsp;
+
+[Advanced Aerotechnologies Group](https://advancedaerotech.com/){: target="_blank"}&nbsp;- Can perform your pitot-static and transponder tests.
 
 [Hangar 1](https://hangar1aviation.com/){: target="_blank"}&nbsp;- Can perform your annual inspection.
 
-[Western Plains Aviation](https://www.westernplainsaviation.com/)&nbsp;- Can perform your pitot static, transponder tests and your annual inspection.
+[Western Plains Aviation](https://www.westernplainsaviation.com/)&nbsp;- Can perform your pitot-static, transponder tests and your annual inspection.
 
 &nbsp;
 
