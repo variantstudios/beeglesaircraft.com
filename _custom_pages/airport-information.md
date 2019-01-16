@@ -30,7 +30,7 @@ Location Identifier: KGXY<br>Airfield Elevation: 4,697’ MSL<br>Unicom Frequenc
 
 &nbsp;
 
-[Peak Flight Support](http://www.gxy.net/peak-flight-support.html)
+[Peak Flight Support](http://www.gxy.net/peak-flight-support.html){: target="_blank"}
 
 &nbsp;
 
