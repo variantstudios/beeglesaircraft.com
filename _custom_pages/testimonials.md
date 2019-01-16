@@ -86,4 +86,20 @@ _comments:
 
 ### [Our Article in Cessna Magazine](http://viewer.zmags.com/publication/9128d279#/9128d279/36){: target="_blank"}
 
-&nbsp;
+### **"Beegles has worked on my 1956 Cessna 180 three times and each time their service and follow up was outstanding. Scott and the whole staff represent the best in service and knowledge especially of 180/185 aircraft. I would trust no one else to care for my pride and joy of 31 years now! Just talk to Scott and you will instantly be at ease and know you can trust this shop to deliver what you expect. On my last visit I had them do a gear alignment and frankly the airplane has never had ground handling this good EVER."**
+
+##### David Gleiter
+
+Cessna 180 N4947A&nbsp; Jan 2019
+
+### "Their knowledge, workmanship, attention to detail, and quality control are exceptional and second to none! Extremely high standards combined with decades of collective knowledge ensure that they do it right every time. This has made it a very pleasant and enjoyable experience for me over the multiple times that they have worked on my airplane.&nbsp;<br><br>Their customer service is over the top! "
+
+##### Craig Ehman
+
+Cessna 180K C-GVER Dec 2018
+
+### "We worked with this shop (Scott) when our C310 received hail damage. They are absolutely #1 in customer service. They truly care about each and every one of their customers, new or old. They are also very accommodating to any needs you may have. Highly recommend."
+
+##### Jason Good&nbsp;
+
+Nov 2018
