@@ -22,12 +22,20 @@ testimonials:
     testimonial_subtitle: Cessna 180K C-GVER Dec 2018
     testimonial_body_text: "Their knowledge, workmanship, attention to detail, and quality control are exceptional and second to none! Extremely high standards combined with decades of collective knowledge ensure that they do it right every time. This has made it a very pleasant and enjoyable experience for me over the multiple times that they have worked on my airplane.\_\n\nTheir customer service is over the top!"
   - testimonial_title: Jason Good
-    testimonial_subtitle: Nov 2018
+    testimonial_subtitle: Cessna T310R  N4937J  Nov 2018
     testimonial_body_text: >-
       We worked with this shop (Scott) when our C310 received hail damage. They
       are absolutely #1 in customer service. They truly care about each and
       every one of their customers, new or old. They are also very accommodating
       to any needs you may have. Highly recommend.
+  - testimonial_title: Steve Taylor
+    testimonial_subtitle: Piper PA 46-500TP N623D  June 2018
+    testimonial_body_text: >-
+      I wanted to drop you a quick note, thanking you for the repair job and
+      detailing you and your crew did for my Meridian. It exceeded all my
+      expectations. My wife and I went to the hanger Saturday to clean the bugs
+      off after our trip home and upon further review, I didn't find anything
+      that wasn't done to perfection on the entire aircraft.
   - testimonial_title: Paul Swanstrom
     testimonial_subtitle: Cessna A185F N185M
     testimonial_body_text: >-
@@ -103,8 +111,8 @@ _comments:
   testimonial_body_text: This is testinomial.
 ---
 
-### &nbsp;
+###  
 
 ### [Our Article in Cessna Magazine](http://viewer.zmags.com/publication/9128d279#/9128d279/36){: target="_blank"}
 
-### &nbsp;
+###
