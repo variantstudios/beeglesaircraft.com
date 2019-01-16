@@ -97,7 +97,7 @@ _comments:
 cloudinaryurl: 'https://res.cloudinary.com/beeglesac/'
   
 # Google Analytics 
-google_analytics_tracking_id:
+google_analytics_tracking_id: 'UA-1299264-4'
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
