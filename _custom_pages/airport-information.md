@@ -30,16 +30,20 @@ Location Identifier: KGXY<br>Airfield Elevation: 4,697’ MSL<br>Unicom Frequenc
 
 &nbsp;
 
-[Peak Flight Support](http://www.gxy.net/peak-flight-support.html){: target="_blank"}
+### Other businesses on the airfield
 
-[Advanced Aerotechnologies Group](https://advancedaerotech.com/){: target="_blank"}
+[Peak Flight Support](http://www.gxy.net/peak-flight-support.html){: target="_blank"}&nbsp;- Will be your check in point if you arrive on the weekend or after hours.&nbsp;
 
-[Hangar 1](https://hangar1aviation.com/){: target="_blank"}
+[Advanced Aerotechnologies Group](https://advancedaerotech.com/){: target="_blank"}&nbsp;- Can perform your pitot static and transponder tests.
 
-[Western Plains Aviation](https://www.westernplainsaviation.com/)
+[Hangar 1](https://hangar1aviation.com/){: target="_blank"}&nbsp;- Can perform your annual inspection.
+
+[Western Plains Aviation](https://www.westernplainsaviation.com/)&nbsp;- Can perform your pitot static, transponder tests and your annual inspection.
 
 &nbsp;
 
-[Barnstormer Restaurant](http://barnstormerrestaurant.com/){: target="_blank"}
+[Barnstormer Restaurant](http://barnstormerrestaurant.com/){: target="_blank"}&nbsp;- Makes a great smothered burrito!
+
+&nbsp;
 
 &nbsp;
