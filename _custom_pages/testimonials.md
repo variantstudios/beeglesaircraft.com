@@ -82,3 +82,8 @@ _comments:
   testimonial_body_text: This is testinomial.
 ---
 
+### &nbsp;
+
+### [Our Article in Cessna Magazine](http://viewer.zmags.com/publication/9128d279#/9128d279/36){: target="_blank"}
+
+&nbsp;
