@@ -14,7 +14,7 @@ page_image_gallery:
 layout: page
 ---
 
-Beegles Aircraft Service LLC, located at the Greeley/Weld County Airport (GXY), Beegles Sign in Greeley, Colorado, has been in service since 1946 and has a current staff of 25 full time employees. We are a FAA Certified Repair Station, (Number BX4R092M), with a Class III Airframe rating and additionally have Power plant, Propeller, and landing gear limited ratings, and comply with the FAA mandated drug and alcohol screenings programs.
+Beegles Aircraft Service LLC, located at the Greeley/Weld County Airport (GXY), in Greeley, Colorado. Beegles has been in service since 1946 and has a current staff of 25 full-time employees. We are a FAA Certificated Repair Station, # BX4R092M, with a Class III Airframe 145 Rating with Limited Ratings in PowerPlant, Propellers, and Landing Gear Components. We comply with the FAA Mandated Drug and Alcohol Screenings Programs.
 
 Complete turnkey repairs, to include disassembly and transportation of aircraft, aircraft ferrying services, major structural repairs, reassembly, painting, and aircraft delivery are our specialty. However; we also offer a complete line of specialized services, such as: wing repairs, control surface repairs, fuselage repairs, and also accomplish many modifications, alterations, STC’s, and aircraft refurbishing.&nbsp;
 
