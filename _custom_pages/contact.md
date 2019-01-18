@@ -11,25 +11,25 @@ page_image_gallery:
     gallery_image_path:
 webform:
   subject: 'Beegles Aircraft Services: Contact Form'
-  to: allen.sapp@beeglesair.com
+  to: info@beeglesair.com
   thank_you_message: Thank you. Your message has been sent. We will contact you shortly.
 layout: contact
 ---
 
 # Contact Beegles
 
-Beegles Aircraft Service LLC&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 970.353.9200 Local<br>635 Airport Road&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 303.659.5870 Denver Metro&nbsp;<br>Greeley, CO. 80631<br><br>**Direct Lines**
+Beegles Aircraft Service LLC                                            970.353.9200 Local<br>635 Airport Road                                                              303.659.5870 Denver Metro <br>Greeley, CO. 80631<br><br>**Direct Lines**
 
-Scott Mauch&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Owner / Chief Inspector / Estimates&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;970.313.4822<br>&nbsp;&nbsp;&nbsp;
+Scott Mauch                                                         Owner / Chief Inspector / Estimates             970.313.4822<br>   
 
-Jared Boles&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Owner / Sales Manager&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;970.313.4823<br>&nbsp;&nbsp;&nbsp;
+Jared Boles                                                           Owner / Sales Manager                                 970.313.4823<br>   
 
-Doug Morrow&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; General Manager / Manager of Quality Assurance &nbsp; &nbsp;970.353.9200&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Inspector / Estimates<br>&nbsp;
+Doug Morrow                                                      General Manager / Manager of Quality Assurance    970.353.9200                                                    Inspector / Estimates<br> 
 
-Charlie Brink&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Shop Foreman&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;970.353.9200<br>&nbsp;&nbsp;&nbsp;
+Charlie Brink                                                        Shop Foreman                                                     970.353.9200<br>   
 
-Linda Hanna&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Office Manager&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;970.313.4820<br>&nbsp;&nbsp;&nbsp;
+Linda Hanna                                                        Office Manager                                                 970.313.4820<br>   
 
-Ed Schumacher&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Aircraft Transport / Investigations&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;970.481.4132<br>&nbsp;&nbsp;&nbsp;
+Ed Schumacher                                                  Aircraft Transport / Investigations                   970.481.4132<br>   
 
-Allen Sapp&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Parts&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;970.313.4825<br>&nbsp;&nbsp;<br>Remember that our goal would be to complete this project, provide you with an aircraft that we can both be proud of, and you can achieve many more hours and years of safe flying.&nbsp; Of course, we would get the joy of stating, we “saved” another aircraft.
+Allen Sapp                                                         Parts                                                                   970.313.4825<br>  <br>Remember that our goal would be to complete this project, provide you with an aircraft that we can both be proud of, and you can achieve many more hours and years of safe flying.  Of course, we would get the joy of stating, we “saved” another aircraft.
