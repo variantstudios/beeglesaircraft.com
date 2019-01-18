@@ -15,6 +15,8 @@ page_image_gallery:
     gallery_image_path: /assets/images/retrieval/retrieval_2.jpg
   - image_title: Aircraft retrieval
     gallery_image_path: /assets/images/retrieval/retrieval_3.jpg
+  - image_title: Aircraft Retrieval
+    gallery_image_path: /assets/images/p1010003.JPG
   - image_title: Aircraft retrieval
     gallery_image_path: /assets/images/retrieval/retrieval_4.jpg
   - image_title: Aircraft retrieval
