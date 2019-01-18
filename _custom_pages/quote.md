@@ -12,4 +12,4 @@ page_image_gallery:
 layout: quote
 ---
 
-Please fill out the below form, attach up to 30 pictures we will get back to you as soon as possible.&nbsp;
+Please fill out the below form, attach your pictures or files and we will get back to you as soon as possible.&nbsp;
