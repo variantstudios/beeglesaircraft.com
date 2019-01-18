@@ -106,6 +106,6 @@ Pilot/Mechanic position can include of the following tasks:
 
 &nbsp;
 
-If you are interested in joining our team please contact us to answer any questions at (970) 353-9200 or at (970) 381-1372. If you are ready to apply, please send an application and attached resume using our request a quote link on the bottom right side of this page.
+If you are interested in joining our team please contact us to answer any questions at (970) 353-9200 or at (970) 381-1372. If you are ready to apply, please send an application and attached resume using our [request a quote link](/quote/).
 
 [![Application for Employment](/assets/images/icons/pdf.svg)](/Application For Employment.pdf){: target="_blank"} Application for Employment
