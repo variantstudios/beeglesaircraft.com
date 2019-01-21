@@ -56,6 +56,8 @@ Greeley Taxi 970-324-7728, Uber and Lyft are all options for local travel as wel
 
 Once you arrive to our facility via airplane or shuttle, we will be more than happy to loan you our courtesy car to roam around town in or adventure up into the beautiful Rocky Mountains. Just give us a couple days heads up and we will make sure it is fueled and ready for your use.
 
+Be sure to check our [hours of operations](/hours-of-operations/) before visiting.&nbsp;
+
 ## Greeley Stampede:
 
 If you are in the area between June 26th and July 7th of 2019, Greeley will be a very busy place. The Greeley Stampede, the longest running rodeo in North America will bring an estimated 250,000 people to the area. All hotel/motel discounts are not honored during this time and finding a room can be rough.
