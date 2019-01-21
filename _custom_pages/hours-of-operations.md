@@ -5,7 +5,7 @@ search_engine_optimization:
   page_title:
   page_description:
   share_image_path:
-hero_image: /assets/images/hero/final3.jpg
+hero_image: /assets/images/final3---copy-2-15.JPG
 page_image_gallery:
   - image_title:
     gallery_image_path:
@@ -14,7 +14,7 @@ layout: page
 
 ### Our normal operating hours are M-F 7:30 am – 4:00 pm MST
 
-#### &nbsp;
+####  
 
 #### Additionally, we will be closed on the following dates in 2019.
 
@@ -30,8 +30,6 @@ layout: page
 
 ##### December 31st and January 1st, 2020 – New Years
 
-&nbsp;
+ 
 
 Any visits that conflict with our normal operating hours and holiday schedule will require prior coordination.
-
-&nbsp;
