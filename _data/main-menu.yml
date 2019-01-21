@@ -31,7 +31,7 @@
       url: /quote/
     - text: Map and Directions
       url: /map/
-    - text: Airport Information
-      url: /airport-information/
     - text: Hours of Operations
       url: /hours-of-operations/
+    - text: Airport Information
+      url: /airport-information/
