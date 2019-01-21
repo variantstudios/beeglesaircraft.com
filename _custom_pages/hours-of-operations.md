@@ -34,4 +34,4 @@ layout: page
 
 Any visits that conflict with our normal operating hours and holiday schedule will require prior coordination.
 
-Thanks!
+&nbsp;
