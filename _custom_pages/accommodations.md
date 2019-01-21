@@ -58,6 +58,6 @@ Once you arrive to our facility via airplane or shuttle, we will be more than ha
 
 ## Greeley Stampede:
 
-If you are in the area between June 26th and July 7th of 2019, Greeley will be a very busy place. The Greeley Stampede, the longest running rodeo in North America will bring an estimated 250,000 people to the area. All discounts are not honored during this time and finding a motel can be rough.
+If you are in the area between June 26th and July 7th of 2019, Greeley will be a very busy place. The Greeley Stampede, the longest running rodeo in North America will bring an estimated 250,000 people to the area. All hotel/motel discounts are not honored during this time and finding a room can be rough.
 
 &nbsp;
