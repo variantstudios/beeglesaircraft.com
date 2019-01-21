@@ -14,7 +14,7 @@ layout: page
 
 ### Our normal operating hours are M-F 7:30 am – 4:00 pm MST
 
-####  
+#### &nbsp;
 
 #### Additionally, we will be closed on the following dates in 2019.
 
@@ -26,10 +26,10 @@ layout: page
 
 ##### November 28th and 29th – Thanksgiving
 
-##### December 25th through 27th -Christmas
+##### December 25th through 27th - Christmas
 
 ##### December 31st and January 1st, 2020 – New Years
 
- 
+&nbsp;
 
 Any visits that conflict with our normal operating hours and holiday schedule will require prior coordination.
