@@ -42,7 +42,7 @@ testimonials:
       I wanted to personally acknowledge you and your team at Beegles Aircraft
       Service for the fine workmanship on my plane. This was a very stressful
       issue and you made it seamless for me to schedule the repairs, work with
-      the insurance carrier and ultimately expedited the return of my plane. not
+      the insurance carrier and ultimately expedited the return of my plane. Not
       to mention, you could never tell that the plane had incurred hangar
       damage, as your repair work is exemplary. Beegles lived up to its
       reputation as a 'first class' operation and I wanted you to hear it from
