@@ -36,6 +36,17 @@ testimonials:
       expectations. My wife and I went to the hanger Saturday to clean the bugs
       off after our trip home and upon further review, I didn't find anything
       that wasn't done to perfection on the entire aircraft.
+  - testimonial_title: Mark Slavin
+    testimonial_subtitle: Cessna T182T N821FA  October 2017
+    testimonial_body_text: >-
+      I wanted to personally acknowledge you and your team at Beegles Aircraft
+      Service for the fine workmanship on my plane. This was a very stressful
+      issue and you made it seamless for me to schedule the repairs, work with
+      the insurance carrier and ultimately expedited the return of my plane. not
+      to mention, you could never tell that the plane had incurred hangar
+      damage, as your repair work is exemplary. Beegles lived up to its
+      reputation as a 'first class' operation and I wanted you to hear it from
+      me.
   - testimonial_title: Paul Swanstrom
     testimonial_subtitle: Cessna A185F N185M
     testimonial_body_text: >-
@@ -111,8 +122,6 @@ _comments:
   testimonial_body_text: This is testinomial.
 ---
 
-### &nbsp;
+###  
 
-### &nbsp;[Our Article in Cessna Magazine](http://viewer.zmags.com/publication/9128d279#/9128d279/36){: target="_blank"}
-
-&nbsp;
+###  [Our Article in Cessna Magazine](http://viewer.zmags.com/publication/9128d279#/9128d279/36){: target="_blank"}
