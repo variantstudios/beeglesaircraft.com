@@ -73,7 +73,7 @@ testimonials:
       job to Beegles instead.. N5468E has been to Beegles twice in her 26-some
       years in service: she looks and flies as good as new.
   - testimonial_title: Chuck Meyers
-    testimonial_subtitle:
+    testimonial_subtitle: Beech Baron  November 2004
     testimonial_body_text: >-
       All I can tell you is that if you want perfect work, Beegles is the place
       to go. I hit a deer with the left wing on our 2002 Baron. The paint scheme
@@ -85,7 +85,7 @@ testimonials:
       place to have our plane fixed and they met my expectations. Oh-and the
       final bill was less than the estimate!
   - testimonial_title: Richard Castle
-    testimonial_subtitle:
+    testimonial_subtitle: Beech Baron N8117V  May 2002
     testimonial_body_text: >-
       I want to thank you all for the excellent repair job you did our Baron,
       This aircraft has been involved in at least 3 gear up or partial gear up
@@ -97,7 +97,7 @@ testimonials:
       work and thank you for a job well done. I would be happy to recommend you
       to other potential customers.
   - testimonial_title: Mike Berg
-    testimonial_subtitle:
+    testimonial_subtitle: Mooney M20  June 2005
     testimonial_body_text: >-
       Sheet metal work was done by Beegles in Colorado. As best as I can tell,
       they have done a fine job. Cosmetics look good. She flies straight (hands
@@ -112,11 +112,11 @@ testimonials:
       mods, airframe service kits, aircraft weighing, aircraft rigging, engine
       mount fitting and installation, and sheet metal repairs.
   - testimonial_title: Carl Poplawski
-    testimonial_subtitle:
+    testimonial_subtitle: Piper Arrow N3965T  July 2006
     testimonial_body_text: >-
-      The quality of repair is 1st rate, the airplane was ready on time and was
-      even washed. Phone calls were promptly returned, and Scott went out of his
-      way to make sure I was taken care of. You may or may not know that
+      The quality of repair is 1st rate, the airplane was ready on time and it
+      was even washed. Phone calls were promptly returned, and Scott went out of
+      his way to make sure I was taken care of. You may or may not know that
       everything I just mentioned is unusual in the world of piston aviation!
       There are no "squawks" now after putting about 10 hours on the plane.
 page_image_gallery:
