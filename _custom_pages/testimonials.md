@@ -36,6 +36,13 @@ testimonials:
       expectations. My wife and I went to the hanger Saturday to clean the bugs
       off after our trip home and upon further review, I didn't find anything
       that wasn't done to perfection on the entire aircraft.
+  - testimonial_title: Steve Koontz
+    testimonial_subtitle: Beech V35 N74SK  2018
+    testimonial_body_text: >-
+      My summary of Beegle's is this. They under promise and over deliver. I now
+      have a much better plane than I had before. I'm sure that part of the
+      speed increase is due to the rigging that Beegle's did, because now it
+      flies better than before.
   - testimonial_title: Mark Slavin
     testimonial_subtitle: Cessna T182T N821FA  October 2017
     testimonial_body_text: >-
