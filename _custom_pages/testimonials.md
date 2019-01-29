@@ -54,24 +54,22 @@ testimonials:
       damage, as your repair work is exemplary. Beegles lived up to its
       reputation as a 'first class' operation and I wanted you to hear it from
       me.
-  - testimonial_title: Paul Swanstrom
-    testimonial_subtitle: Cessna A185F N185M
+  - testimonial_title: Carl Poplawski
+    testimonial_subtitle: Piper Arrow N3965T  July 2006
     testimonial_body_text: >-
-      Beegles Aircraft is the ultimate airframe shop for you aircraft. Be it
-      repair, restoration or a modification, their staff has the most experience
-      and performs the best job period! Other shops talk about precision and/or
-      "attention to detail" but at Beegles, you really get it. I highly
-      recommend them.
-  - testimonial_title: Bernie Schroder
-    testimonial_subtitle: 'N5468E, 1980 Cessna A185F'
+      The quality of repair is 1st rate, the airplane was ready on time and it
+      was even washed. Phone calls were promptly returned, and Scott went out of
+      his way to make sure I was taken care of. You may or may not know that
+      everything I just mentioned is unusual in the world of piston aviation!
+      There are no "squawks" now after putting about 10 hours on the plane.
+  - testimonial_title: Mike Berg
+    testimonial_subtitle: Mooney M20  June 2005
     testimonial_body_text: >-
-      Think you can no longer find Professionalism, Pride in Workmanship, Great
-      Customer Service and Attention to Detail? At any price? At Beegles you can
-      expect all of the above and more - for a reasonable price. When my
-      Skywagon got hurt in California I thought long and hard about having it
-      repaired locally. Fortunately, I followed the right advice and gave the
-      job to Beegles instead.. N5468E has been to Beegles twice in her 26-some
-      years in service: she looks and flies as good as new.
+      Sheet metal work was done by Beegles in Colorado. As best as I can tell,
+      they have done a fine job. Cosmetics look good. She flies straight (hands
+      off) and hasn't slowed down a bit. I regularly spoke with Scott and he was
+      always polite and very patient. I hope to never do business with these
+      folks again, but if I do, I’ll go back there.
   - testimonial_title: Chuck Meyers
     testimonial_subtitle: Beech Baron  November 2004
     testimonial_body_text: >-
@@ -96,14 +94,24 @@ testimonials:
       perfect trim and balance. I commend you on your exceptional quality of
       work and thank you for a job well done. I would be happy to recommend you
       to other potential customers.
-  - testimonial_title: Mike Berg
-    testimonial_subtitle: Mooney M20  June 2005
+  - testimonial_title: Bernie Schroder
+    testimonial_subtitle: 'N5468E, 1980 Cessna A185F'
     testimonial_body_text: >-
-      Sheet metal work was done by Beegles in Colorado. As best as I can tell,
-      they have done a fine job. Cosmetics look good. She flies straight (hands
-      off) and hasn't slowed down a bit. I regularly spoke with Scott and he was
-      always polite and very patient. I hope to never do business with these
-      folks again, but if I do, I’ll go back there.
+      Think you can no longer find Professionalism, Pride in Workmanship, Great
+      Customer Service and Attention to Detail? At any price? At Beegles you can
+      expect all of the above and more - for a reasonable price. When my
+      Skywagon got hurt in California I thought long and hard about having it
+      repaired locally. Fortunately, I followed the right advice and gave the
+      job to Beegles instead.. N5468E has been to Beegles twice in her 26-some
+      years in service: she looks and flies as good as new.
+  - testimonial_title: Paul Swanstrom
+    testimonial_subtitle: Cessna A185F N185M
+    testimonial_body_text: >-
+      Beegles Aircraft is the ultimate airframe shop for you aircraft. Be it
+      repair, restoration or a modification, their staff has the most experience
+      and performs the best job period! Other shops talk about precision and/or
+      "attention to detail" but at Beegles, you really get it. I highly
+      recommend them.
   - testimonial_title: Reagan Stone
     testimonial_subtitle:
     testimonial_body_text: >-
@@ -111,14 +119,6 @@ testimonials:
       airframe experience with the Cessna Skywagon for the latest performance
       mods, airframe service kits, aircraft weighing, aircraft rigging, engine
       mount fitting and installation, and sheet metal repairs.
-  - testimonial_title: Carl Poplawski
-    testimonial_subtitle: Piper Arrow N3965T  July 2006
-    testimonial_body_text: >-
-      The quality of repair is 1st rate, the airplane was ready on time and it
-      was even washed. Phone calls were promptly returned, and Scott went out of
-      his way to make sure I was taken care of. You may or may not know that
-      everything I just mentioned is unusual in the world of piston aviation!
-      There are no "squawks" now after putting about 10 hours on the plane.
 page_image_gallery:
   - image_title:
     gallery_image_path:
