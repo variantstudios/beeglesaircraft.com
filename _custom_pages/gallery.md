@@ -23,6 +23,8 @@ image_gallery:
     gallery_image_path: /assets/images/completed/completed_7.jpg
   - image_title: Add a photo title here
     gallery_image_path: /assets/images/completed/completed_8.jpg
+  - image_title:
+    gallery_image_path:
 layout: gallery
 ---
 
