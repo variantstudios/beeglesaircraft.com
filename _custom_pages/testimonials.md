@@ -5,7 +5,7 @@ search_engine_optimization:
   page_title: Beegles Custom Testimonials
   page_description: Read what our customers have to say.
   share_image_path:
-hero_image: /assets/images/final3---copy-2-8.JPG
+hero_image: /assets/images/website-pic.jpg
 testimonials:
   - testimonial_title: David Gleiter
     testimonial_subtitle: "Cessna 180 N4947A\_ Jan 2019"
