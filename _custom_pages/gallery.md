@@ -5,7 +5,7 @@ search_engine_optimization:
   page_title: Beegles' Photo Gallery
   page_description: View a colledction of our photos.
   share_image_path:
-hero_image: /assets/images/final3---copy-2-7.JPG
+hero_image: /assets/images/100-1544.JPG
 image_gallery:
   - image_title: Add a photo title here
     gallery_image_path: /assets/images/completed/completed_1.jpg
@@ -25,6 +25,8 @@ image_gallery:
     gallery_image_path: /assets/images/completed/completed_8.jpg
   - image_title:
     gallery_image_path: /assets/images/website-pic-1.jpg
+  - image_title:
+    gallery_image_path:
 layout: gallery
 ---
 
