@@ -10,13 +10,13 @@ image_gallery:
   - image_title:
     gallery_image_path: /assets/images/100-1544.JPG
   - image_title: Add a photo title here
-    gallery_image_path: /assets/images/completed/completed_1.jpg
-  - image_title: Add a photo title here
     gallery_image_path: /assets/images/completed/completed_2.jpg
+  - image_title: Add a photo title here
+    gallery_image_path: /assets/images/completed/completed_4.jpg
   - image_title: Add a photo title here
     gallery_image_path: /assets/images/completed/completed_3.jpg
   - image_title: Add a photo title here
-    gallery_image_path: /assets/images/completed/completed_4.jpg
+    gallery_image_path: /assets/images/completed/completed_1.jpg
   - image_title: Add a photo title here
     gallery_image_path: /assets/images/completed/completed_5.jpg
   - image_title: Add a photo title here
