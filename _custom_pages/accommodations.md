@@ -44,7 +44,7 @@ Here are some of the accommodations near Beegles Aircraft Service in Greeley, CO
 
 **GREELEY SUPER 8 MOTEL**&nbsp;- Located 6 miles from the airport on Greeley’s south side off US Hwy 34 Bypass.&nbsp; Whirlpool suite, breakfast bar, free coffee.&nbsp; (970) 330-8800 or 1-800-800-8000. [wyndhamhotels.com](https://www.wyndhamhotels.com/super-8/greeley-colorado/super-8-greeley/overview?CID=LC:SE::GGL:RIO:National:08004&amp;iata=00065402){: target="_blank"}
 
-**Best Western**&nbsp;- Located 7.4 miles south the airport on Greeley’s south side off US Hwy 34 Bypass.&nbsp; &nbsp;fully remodeled in January 2019 with indoor heated pool, fitness center, &nbsp;business center, free Wi-Fi and, a complimentary full hot buffet style breakfast.&nbsp; (970) 330-7495 or [1(800) 780-7234](tel://1&#40;800&#41; 780-7234)&nbsp;[Bestwestern.com](https://www.bestwestern.com/en_US/book/hotels-in-greeley/best-western-greeley/propertyCode.06193.html){: target="_blank"}
+**BEST WESTERN**&nbsp;- Located 7.4 miles south the airport on Greeley’s south side off US Hwy 34 Bypass.&nbsp; &nbsp;fully remodeled in January 2019 with indoor heated pool, fitness center, &nbsp;business center, free Wi-Fi and, a complimentary full hot buffet style breakfast.&nbsp; (970) 330-7495 or 1-800-780-7234. &nbsp;[Bestwestern.com](https://www.bestwestern.com/en_US/book/hotels-in-greeley/best-western-greeley/propertyCode.06193.html){: target="_blank"}
 
 ## Transportation:
 
