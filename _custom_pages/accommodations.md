@@ -18,7 +18,7 @@ layout: page
 
 Here are some of the accommodations near Beegles Aircraft Service in Greeley, CO.&nbsp; They include Hotels, Motels and even several Bed and Breakfasts.&nbsp; The lists of amenities are listed next to each.&nbsp;
 
-##### These first hotels offer a discount if you mention that you are a Beegles Aircraft Service customer. Make sure to ask!&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+##### These first hotels offer a discount if you mention that you are a Beegles Aircraft Service customer. Make sure to ask\!&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 
 **DOUBLE TREE**&nbsp;- Greeley’s newest hotel and conference center, located next to the Union Colony Civic Center and only 3.2 miles from the airport. With amenities designed for the savvy business traveler, we are the premier location for meetings and events in Northern Colorado.&nbsp; 970-304-0000&nbsp; [Double Tree Greeley](https://doubletree3.hilton.com/en/hotels/colorado/doubletree-by-hilton-greeley-at-lincoln-park-DENGCDT/index.html){: target="_blank"}
 
@@ -44,7 +44,7 @@ Here are some of the accommodations near Beegles Aircraft Service in Greeley, CO
 
 **GREELEY SUPER 8 MOTEL**&nbsp;- Located 6 miles from the airport on Greeley’s south side off US Hwy 34 Bypass.&nbsp; Whirlpool suite, breakfast bar, free coffee.&nbsp; (970) 330-8800 or 1-800-800-8000. [wyndhamhotels.com](https://www.wyndhamhotels.com/super-8/greeley-colorado/super-8-greeley/overview?CID=LC:SE::GGL:RIO:National:08004&amp;iata=00065402){: target="_blank"}
 
-**HOLIDAY INN EXPRESS**&nbsp;- Located 6 miles south the airport on Greeley’s south side off US Hwy 34 Bypass.&nbsp; Outdoor jacuzzi, fitness room, complimentary breakfast bar, jacuzzi suites, in-room coffee makers, restaurants and shopping nearby.&nbsp; (970) 330-7495 or 1-800-HOLIDAY.&nbsp;[ihg.com](https://www.ihg.com/holidayinnexpress/hotels/us/en/greeley/gxywe/hoteldetail?cm_mmc=GoogleMaps-_-EX-_-US-_-GXYWE){: target="_blank"}
+**Best Western**&nbsp;- Located 6 miles south the airport on Greeley’s south side off US Hwy 34 Bypass.&nbsp; &nbsp;fully remodeled in January 2019 with indoor heated pool, fitness center, &nbsp;business center, free Wi-Fi and, a complimentary full hot buffet style breakfast.&nbsp; (970) 330-7495 or [1(800) 780-7234](tel://1&#40;800&#41; 780-7234)&nbsp;[Bestwestern.com](https://www.bestwestern.com/en_US/book/hotels-in-greeley/best-western-greeley/propertyCode.06193.html){: target="_blank"}
 
 ## Transportation:
 
