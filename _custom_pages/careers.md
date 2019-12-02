@@ -20,7 +20,7 @@ layout: page
 
 * Monday through Friday 7:30 A.M. to 4:30 P.M. work week
 * Competitive pay
-* Simple IRA
+* 401(k)
 * Cafeteria plan
 * Cost of living compensation
 * Six paid holidays&nbsp;
