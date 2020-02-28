@@ -119,6 +119,22 @@ testimonials:
       airframe experience with the Cessna Skywagon for the latest performance
       mods, airframe service kits, aircraft weighing, aircraft rigging, engine
       mount fitting and installation, and sheet metal repairs.
+  - testimonial_title:
+    testimonial_subtitle:
+    testimonial_body_text:
+  - testimonial_title: James Loomis
+    testimonial_subtitle:
+    testimonial_body_text:
+  - testimonial_title: James Loomis
+    testimonial_subtitle: Cessna T182T Feb 2020
+    testimonial_body_text: >-
+      After sustaining damage to my aircraft and in doing some research, I found
+      that Beegles Aircraft Services was the only reputable shop in the country
+      to perform the necessary work needed. They made the entire process very
+      easy, from picking it up to dropping it back off at my airport. Scott and
+      his team were extremely professional and knowledgeable. It was a pleasure
+      to work with them even in an unfortunate situation and I would highly
+      recommend them to anyone needing work on their aircraft.
 page_image_gallery:
   - image_title:
     gallery_image_path:
