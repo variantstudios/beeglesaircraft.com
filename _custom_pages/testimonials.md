@@ -17,6 +17,9 @@ testimonials:
       his team were extremely professional and knowledgeable. It was a pleasure
       to work with them even in an unfortunate situation and I would highly
       recommend them to anyone needing work on their aircraft.
+  - testimonial_title: Mark Herriott
+    testimonial_subtitle: Cessna A185F N4356R Dec 2019
+    testimonial_body_text: The premier place to go for any type of work on a Skywagon!
   - testimonial_title: Jason Good
     testimonial_subtitle: Cessna T310R  N4937J  Nov 2019
     testimonial_body_text: >-
@@ -132,9 +135,6 @@ testimonials:
   - testimonial_title:
     testimonial_subtitle:
     testimonial_body_text:
-  - testimonial_title: Mark Herriott
-    testimonial_subtitle: Cessna A185F N4356R Dec 2019
-    testimonial_body_text: The premier place to go for any type of work on a Skywagon!
 page_image_gallery:
   - image_title:
     gallery_image_path:
