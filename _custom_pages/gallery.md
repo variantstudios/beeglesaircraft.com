@@ -27,6 +27,8 @@ image_gallery:
     gallery_image_path: /assets/images/completed/completed_8.jpg
   - image_title:
     gallery_image_path: /assets/images/website-pic-1.jpg
+  - image_title:
+    gallery_image_path: /assets/images/N4356R - Copy.jpg
 layout: gallery
 ---
 
