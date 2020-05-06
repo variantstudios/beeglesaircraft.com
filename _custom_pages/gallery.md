@@ -8,6 +8,10 @@ search_engine_optimization:
 hero_image: /assets/images/final4.JPG
 image_gallery:
   - image_title:
+    gallery_image_path: /assets/images/N4356R - Copy.jpg
+  - image_title: Add a photo title here
+    gallery_image_path: /assets/images/completed/completed_8.jpg
+  - image_title:
     gallery_image_path: /assets/images/100-1544.JPG
   - image_title: Add a photo title here
     gallery_image_path: /assets/images/completed/completed_2.jpg
@@ -23,12 +27,8 @@ image_gallery:
     gallery_image_path: /assets/images/completed/completed_6.jpg
   - image_title: Add a photo title here
     gallery_image_path: /assets/images/completed/completed_7.jpg
-  - image_title: Add a photo title here
-    gallery_image_path: /assets/images/completed/completed_8.jpg
   - image_title:
     gallery_image_path: /assets/images/website-pic-1.jpg
-  - image_title:
-    gallery_image_path: /assets/images/N4356R - Copy.jpg
 layout: gallery
 ---
 
