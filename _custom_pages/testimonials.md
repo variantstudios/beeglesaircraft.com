@@ -129,6 +129,12 @@ testimonials:
       airframe experience with the Cessna Skywagon for the latest performance
       mods, airframe service kits, aircraft weighing, aircraft rigging, engine
       mount fitting and installation, and sheet metal repairs.
+  - testimonial_title:
+    testimonial_subtitle:
+    testimonial_body_text:
+  - testimonial_title: Mark Herriott
+    testimonial_subtitle: Cessna A185F N4356R Dec 2019
+    testimonial_body_text: The premier place to go for any type of work on a Skywagon!
 page_image_gallery:
   - image_title:
     gallery_image_path:
