@@ -7,6 +7,58 @@ search_engine_optimization:
   share_image_path:
 hero_image: /assets/images/facility-4---copy.JPG
 testimonials:
+  - testimonial_title: Peter Granquist
+    testimonial_subtitle: Beech V35B Jul 2020
+    testimonial_body_text: >-
+      I had some hail damage repaired by Scott and his crew earlier this year.
+      The quality of workmanship, attention to detail, paint, customer service,
+      every aspect of the job was absolutely exceptional! 
+
+      Even dealing with insurance was easier due to using Beegles as they are so
+      highly respected in the industry. 
+
+      I will not consider going elsewhere for body work!
+  - testimonial_title: Carl Hicks
+    testimonial_subtitle: Cessna 180 Jul 2020
+    testimonial_body_text: >-
+      I knew the instant we damaged our Cessna 180 exactly who we wanted to fix
+      it. Legendary for their quality of work and customer service, it had to be
+      Beegles! It did not matter that we were over a thousand miles away in the
+      middle of the northern NV desert, with a crashed airplane, in hours they
+      were on the way to help. Over the next several months, Scott and his team
+      of aircraft professionals remained in close contact throughout every step
+      in the rebuild process. Having owned this aircraft for over 21 years, it
+      was like a member of our family, and that is why we valued all the more
+      this frequent interaction. Over 44 years of flying I had always heard that
+      if you had aircraft damage, and had Beegles fix it, that the plane would
+      be worth more than it even was before they repaired it, and it is true. My
+      first look at our newly rebuilt aircraft at Beegles was nothing short of
+      breathtaking, I could not wait to fly it! It was a beautiful strong
+      Skywagon before, but it never flew completely straight and hands off like
+      it did, and does now, since Beegles rebuilt it. Everyone who sees it
+      remarks on the stunning job they did with our aircraft. Scott, Doug, Linda
+      and all, we will never be able to thank you enough. I want you and the
+      readers to know, that that morning as I climbed out over the front range
+      of the Rockies headed back to Seattle, I hit a terrible jolt in very rough
+      turbulence, as is usual heading up over the rocks. After the briefest of
+      fright, I immediately felt calm and peace. Beegles had put this thing
+      together for me... and we kept climbing.
+  - testimonial_title: Bruno Vassel
+    testimonial_subtitle: Cessna T210L Jun 2020
+    testimonial_body_text: >-
+      I would give them 6 stars if I could. From first contact to the time I
+      picked up my plane, Scott and team were responsive, friendly, and they did
+      a fantastic job with the work done. They even went above and beyond and
+      fixed a few more things than was asked for. Enthusiastic thumbs up!
+  - testimonial_title: Dennis Pilarinos
+    testimonial_subtitle: Cessna 180 Jun 2020
+    testimonial_body_text: >-
+      There aren't words to describe how much I respect and appreciate Beegles.
+      The team there did a better-than-factory repair and restoration of my
+      Cessna 180. The attention to detail, thoroughness, and responsiveness sets
+      the bar for *any* business. Scott is helpful, patient, straightforward and
+      trustworthy. Bluntly put, if you can get into their schedule and decide to
+      go somewhere else... you failed an IQ test ;)
   - testimonial_title: James Loomis
     testimonial_subtitle: Cessna T182T Feb 2020
     testimonial_body_text: >-
@@ -132,9 +184,6 @@ testimonials:
       airframe experience with the Cessna Skywagon for the latest performance
       mods, airframe service kits, aircraft weighing, aircraft rigging, engine
       mount fitting and installation, and sheet metal repairs.
-  - testimonial_title:
-    testimonial_subtitle:
-    testimonial_body_text:
 page_image_gallery:
   - image_title:
     gallery_image_path:
