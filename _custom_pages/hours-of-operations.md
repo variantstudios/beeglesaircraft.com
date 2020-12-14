@@ -16,39 +16,31 @@ layout: page
 
 #### &nbsp;
 
-#### We will be closed on the following dates in 2019.
+#### We will be closed on the following dates in 2020.
 
 ##### &nbsp;
 
-##### December 25th through 27th - Christmas
-
-##### December 31st – New Years
+##### From December 24th at noon through the 4th of January for Christmas/New Years.
 
 &nbsp;
 
-#### Additionally, we will be closed on the following dates in 2020.
+#### Additionally, we will be closed on the following dates in 2021.
+
+##### May 31st - Memorial Day
+
+##### July 5th - Independence Day
+
+##### September 6th - Labor Day
+
+##### November 25th and 26th - Thanksgiving
+
+##### December 24th - Christmas
+
+##### December 31st - New Years
+
+#### &nbsp;
 
 ##### &nbsp;
-
-##### January 1st - New Years day
-
-##### May 25th - Memorial Day
-
-##### July 3rd - Independence Day
-
-##### September 7th - Labor Day
-
-##### November 26th and 27th - Thanksgiving
-
-##### December 25th - Christmas
-
-##### &nbsp;
-
-#### Finally, we will be closed on the following dates in 2021.
-
-##### &nbsp;
-
-##### January 1, 2021 - New Years Day
 
 &nbsp;
 
