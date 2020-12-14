@@ -62,6 +62,6 @@ Be sure to check our&nbsp;[hours of operations](https://www.beeglesaircraft.com/
 
 ## **Greeley Stampede:**
 
-If you are in the area between June 24th and July 5th of 2020, Greeley will be a very busy place. The Greeley Stampede, the longest running rodeo in North America will bring an estimated 250,000 people to the area. All hotel/motel discounts are not honored during this time and finding a room can be rough.
+If you are in the area between June 23rd and July 4th of 2021, Greeley will be a very busy place. The Greeley Stampede, the longest running rodeo in North America will bring an estimated 250,000 people to the area. All hotel/motel discounts are not honored during this time and finding a room can be rough.
 
 &nbsp;
