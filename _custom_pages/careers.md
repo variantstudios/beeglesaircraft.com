@@ -18,7 +18,7 @@ layout: page
 
 ### What we offer
 
-* Monday through Friday 7:30 A.M. to 4:30 P.M. work week
+* Monday through Friday 7:30 A.M. to 4:00 P.M. work week
 * Competitive pay
 * 401(k)
 * Cafeteria plan
