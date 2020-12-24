@@ -7,6 +7,11 @@ search_engine_optimization:
   share_image_path:
 hero_image: /assets/images/facility-4---copy.JPG
 testimonials:
+  - testimonial_title: Matt Williams
+    testimonial_subtitle: Piper PA-32R-301T Dec 2020
+    testimonial_body_text: >-
+      Beegles did a fantastic job on our airplane. It looks like new. The staff
+      was very professional and great to work with. 5 stars all the way.
   - testimonial_title: Peter Granquist
     testimonial_subtitle: Beech V35B Jul 2020
     testimonial_body_text: >-
