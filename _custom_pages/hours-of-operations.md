@@ -16,15 +16,7 @@ layout: page
 
 #### &nbsp;
 
-#### We will be closed on the following dates in 2020.
-
-##### &nbsp;
-
-##### From December 24th at noon through the 4th of January for Christmas/New Years.
-
-&nbsp;
-
-#### Additionally, we will be closed on the following dates in 2021.
+#### We will be closed on the following dates in 2021.
 
 ##### May 31st - Memorial Day
 
