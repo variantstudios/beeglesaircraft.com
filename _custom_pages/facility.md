@@ -21,6 +21,8 @@ page_image_gallery:
     gallery_image_path: /assets/images/IMG_4735.JPG
   - image_title: Aircraft repair
     gallery_image_path: /assets/images/facility/facility_6.jpg
+  - image_title: 0533150-5 Rudder
+    gallery_image_path: /assets/images/2.jpg
 layout: page
 ---
 
