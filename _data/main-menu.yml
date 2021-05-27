@@ -9,6 +9,8 @@
       url: /337s/
     - text: Online Part Store
       url: 'https://www.baspartsales.com/'
+    - text: Control Surfaces
+      url: 'https://www.beeglesaircraft.com/control-surfaces/'
 - text: About
   url: /about/
   subitems:
