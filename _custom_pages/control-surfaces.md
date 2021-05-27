@@ -5,7 +5,7 @@ search_engine_optimization:
   page_title:
   page_description:
   share_image_path:
-hero_image: /assets/images/100-4270.JPG
+hero_image: /assets/images/100-4270-1.JPG
 page_image_gallery:
   - image_title: Wing in Jig
     gallery_image_path: /assets/images/100-0922.JPG
@@ -31,6 +31,7 @@ page_image_gallery:
     gallery_image_path: /assets/images/100-4284.JPG
 layout: page
 ---
+
 Beegles Aircraft Service LLC takes great pride in our ability to repair control surfaces.&nbsp; Surfaces are inspected, repaired, corrosion proofed and re-inspected for condition and conformity.
 
 When you receive a repaired surface from us it will be accompanied by work order paperwork and the FAA Form 8130-3.
