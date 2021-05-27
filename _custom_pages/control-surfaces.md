@@ -32,11 +32,11 @@ page_image_gallery:
 layout: page
 ---
 
-Beegles Aircraft Service LLC takes great pride in our ability to repair control surfaces.&nbsp; Surfaces are inspected, repaired, corrosion proofed and re-inspected for condition and conformity.
+Beegles Aircraft Service LLC takes great pride in our ability to repair control surfaces.&nbsp; Surfaces are inspected, repaired and corrosion proofed. Once they are completed they are reinspected for condition and conformity.
 
-When you receive a repaired surface from us it will be accompanied by work order paperwork and the FAA Form 8130-3.
+When you receive a repaired control surface from us it will be accompanied with Beegles Aircraft Service work order paperwork and the FAA Form 8130-3.
 
-We have jigs to maintain proper twist and wash out of surfaces.
+We have jigs to maintain proper twist and washout of surfaces.
 
 We have made it a priority to increase our control surface inventory to save you time by having surfaces on hand when you need them. &nbsp;If we don’t have one on-hand, we are probably capable of rebuilding yours.
 
