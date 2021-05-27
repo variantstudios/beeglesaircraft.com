@@ -7,14 +7,6 @@ search_engine_optimization:
   share_image_path:
 hero_image: /assets/images/100-4270-1.JPG
 page_image_gallery:
-  - image_title: Wing in Jig
-    gallery_image_path: /assets/images/100-0922.JPG
-  - image_title: Aileron Balance
-    gallery_image_path: /assets/images/100-0926.JPG
-  - image_title: Jig
-    gallery_image_path: /assets/images/100-0929.JPG
-  - image_title: Jig
-    gallery_image_path: /assets/images/100-4268.JPG
   - image_title: Surface Room 1
     gallery_image_path: /assets/images/100-4271.JPG
   - image_title: Surface Room 2
@@ -25,10 +17,6 @@ page_image_gallery:
     gallery_image_path: /assets/images/100-4280.JPG
   - image_title: Wings & Stabs 2
     gallery_image_path: /assets/images/100-4281.JPG
-  - image_title: Cores
-    gallery_image_path: /assets/images/100-4283.JPG
-  - image_title: Cores 2
-    gallery_image_path: /assets/images/100-4284.JPG
 layout: page
 ---
 
