@@ -8,15 +8,21 @@ search_engine_optimization:
 hero_image: /assets/images/100-4270-1.JPG
 page_image_gallery:
   - image_title: Surface Room 1
-    gallery_image_path: /assets/images/100-4271.JPG
+    gallery_image_path: /assets/images/100-4285.JPG
   - image_title: Surface Room 2
-    gallery_image_path: /assets/images/100-4272.JPG
-  - image_title: Surface Room 3
-    gallery_image_path: /assets/images/100-4273.JPG
+    gallery_image_path: /assets/images/100-4290.JPG
+  - image_title: Stabs & Flaps
+    gallery_image_path: /assets/images/100-4286.JPG
+  - image_title: Elevators
+    gallery_image_path: /assets/images/100-4287.JPG
   - image_title: Wings & Stabs
-    gallery_image_path: /assets/images/100-4280.JPG
-  - image_title: Wings & Stabs 2
     gallery_image_path: /assets/images/100-4281.JPG
+  - image_title: 'Gear, Rudders & Stabs'
+    gallery_image_path: /assets/images/100-4289.JPG
+  - image_title: Flaps
+    gallery_image_path: /assets/images/100-4291.JPG
+  - image_title: Ailerons
+    gallery_image_path: /assets/images/100-4293.JPG
 layout: page
 ---
 
@@ -29,6 +35,10 @@ We have jigs to maintain proper twist and washout of surfaces.
 We have made it a priority to increase our control surface inventory to save you time by having surfaces on hand when you need them. &nbsp;If we don’t have one on-hand, we are probably capable of rebuilding yours.
 
 We also offer painting services and do stock unpainted and pre-painted surfaces. &nbsp;If you purchase a pre-painted surface or have us paint one, we will balance the surface as well.
+
+Additionally, we have rebuilt gear in stock.&nbsp;
+
+All our surfaces and gear are listed on Parts Base.
 
 If interested in purchasing a surface or having yours rebuilt, please click the Request a Quote Link (upload pictures if wanting rebuilt) and we will get back to you.
 
