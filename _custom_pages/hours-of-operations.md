@@ -20,7 +20,7 @@ layout: page
 
 ##### May 31st - Memorial Day
 
-##### July 5th - Independence Day
+##### July 2nd through July 5th - Independence Day
 
 ##### September 6th - Labor Day
 
