@@ -6,11 +6,11 @@
     - text: Retrieval
       url: /retrieval/
     - text: Control Surfaces
-      url: 'https://www.beeglesaircraft.com/control-surfaces/'
+      url: https://www.beeglesaircraft.com/control-surfaces/
     - text: 337's
       url: /337s/
     - text: Online Part Store
-      url: 'https://www.baspartsales.com/'
+      url: https://www.baspartsales.com/
 - text: About
   url: /about/
   subitems:
@@ -29,8 +29,6 @@
 - text: Contact
   url: /contact/
   subitems:
-    - text: Request A Quote
-      url: /quote/
     - text: Map and Directions
       url: /map/
     - text: Hours of Operations
