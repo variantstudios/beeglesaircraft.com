@@ -1,5 +1,5 @@
 ---
-title: Contact Beegles Aircraft Services
+title:
 sub_title:
 search_engine_optimization:
   page_title: Contact title goes here.
