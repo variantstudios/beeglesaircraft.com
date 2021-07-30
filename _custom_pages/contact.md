@@ -1,5 +1,5 @@
 ---
-title:
+title: Contact
 sub_title:
 search_engine_optimization:
   page_title: Contact title goes here.
